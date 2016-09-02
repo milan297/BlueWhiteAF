@@ -1,0 +1,90 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:3:11-46
+		INJECTED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml
+		INJECTED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml
+		INJECTED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml
+		INJECTED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:5:5-72
+	android:name
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:5:22-70
+application
+ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:7:5-35:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:10:9-42
+	android:supportsRtl
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:12:9-40
+activity#substratum.theme.template.SubstratumLauncher
+ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:14:9-18:20
+	android:name
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:14:19-53
+intent-filter#android.intent.action.MAIN
+ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:15:13-17:29
+action#android.intent.action.MAIN
+ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:16:25-66
+meta-data#Substratum_Legacy
+ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:20:9-22:35
+	android:value
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:22:13-33
+	android:name
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:21:13-45
+meta-data#Substratum_Name
+ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:23:9-25:48
+	android:value
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:25:13-46
+	android:name
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:24:13-43
+meta-data#Substratum_Author
+ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:26:9-28:50
+	android:value
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:28:13-48
+	android:name
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:27:13-45
+meta-data#Substratum_Plugin
+ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:31:9-33:36
+	android:value
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:33:13-34
+	android:name
+		ADDED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml:32:13-45
+uses-sdk
+INJECTED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.javiersantos:PiracyChecker:0.0.2] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.github.javiersantos\PiracyChecker\0.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml
+		INJECTED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml
+		INJECTED from G:\BWAF\Blue--White-AF\BWAF\app\src\main\AndroidManifest.xml
