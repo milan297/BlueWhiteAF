@@ -1,0 +1,39 @@
+﻿<resources>
+    <color name="blue">#ff0288D1</color>
+    <color name="bright_yellow">#ff0288D1</color>
+    <color name="bright_yellow_pressed">#ffd1B054</color>
+    <color name="chat_unknown_sender_color">#fff06b61</color>
+    <color name="chat_unknown_vertical_bar_color">#fff06b61</color>
+    <color name="closed_captioning_blue">#ff3a657e</color>
+    <color name="closed_captioning_cyan">#ff4389b4</color>
+    <color name="closed_captioning_green">#ff0288D1</color>
+    <color name="closed_captioning_magenta">#ff0288D1</color>
+    <color name="closed_captioning_red">#ffd6584c</color>
+    <color name="closed_captioning_yellow">#ff0288D1</color>
+    <color name="color_selected">#ff0288D1</color>
+    <color name="dark_yellow">#ff0288D1</color>
+    <color name="dark_yellow_semi_transparent">#dd0288D1</color>
+    <color name="divider_red">#fff06b61</color>
+    <color name="green">#ff0288D1</color>
+    <color name="iphone_send_blue">#ff0288D1</color>
+    <color name="link_blue">#ff0288D1</color>
+    <color name="password_okay">#fff29a51</color>
+    <color name="password_strong">#ff0288D1</color>
+    <color name="password_weak">#fff06b61</color>
+    <color name="primary_red">#fff06b61</color>
+    <color name="purple">#ff0288D1</color>
+    <color name="purple_fifteen_opacity">#260288D1</color>
+    <color name="purple_ninety_opacity">#e50288D1</color>
+    <color name="purple_pressed">#ff505c9f</color>
+    <color name="purple_sixty_opacity">#99505c9f</color>
+    <color name="purple_thirty_opacity">#4d505c9f</color>
+    <color name="red">#fff06b61</color>
+    <color name="red_fifty_opacity">#80f06b61</color>
+    <color name="red_text">#fff06b61</color>
+    <color name="red_upgrade">#fff06b61</color>
+    <color name="registration_green_continue">#ff0288D1</color>
+    <color name="snapcash_green">#ff0288D1</color>
+    <color name="snapcash_green_cashtag">#ff0288D1</color>
+    <color name="snapcash_green_secondary">#ff427f65</color>
+</resources>
+    
