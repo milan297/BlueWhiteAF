@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.vaaski.bwaf.test">
+    package="substratum.theme.template.test">
 
     <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="24" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.vaaski.bwaf"
+                     android:targetPackage="substratum.theme.template"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.vaaski.bwaf"/>
+                     android:label="Tests for substratum.theme.template"/>
 </manifest>
