@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="primary">#0288D1</color>
+	<color name="primary_dark">#01579B</color>
+	<color name="accent">#0288D1</color>
+	<color name="accent_light">#0288D1</color>
+	<color name="accent_material_dark">#0288D1</color>
+    <color name="accent_material_light">#0288D1</color>
+	<color name="primary_dark_voip">#0277BD</color>
+    <color name="highlighted_text_material_light">#03A9F4</color>
+    <color name="material_deep_teal_500">#03A9F4</color>
+	<color name="action_mode">#0288D1</color>
+	<color name="section_text">#0288D1</color>
+</resources>
