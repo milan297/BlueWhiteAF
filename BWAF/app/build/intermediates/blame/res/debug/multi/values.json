@@ -1927,17 +1927,17 @@
                     "startLine": 191,
                     "startColumn": 4,
                     "startOffset": 27253,
-                    "endColumn": 50,
-                    "endOffset": 27299
+                    "endColumn": 46,
+                    "endOffset": 27295
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 70,
-                        "endColumn": 50,
-                        "endOffset": 116
+                        "startOffset": 68,
+                        "endColumn": 46,
+                        "endOffset": 110
                     }
                 }
             },
@@ -1945,9 +1945,9 @@
                 "to": {
                     "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 27304,
-                    "endColumn": 51,
-                    "endOffset": 27351
+                    "startOffset": 27300,
+                    "endColumn": 49,
+                    "endOffset": 27345
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\src\\main\\res\\values\\strings.xml",
@@ -1955,8 +1955,8 @@
                         "startLine": 1,
                         "startColumn": 4,
                         "startOffset": 17,
-                        "endColumn": 51,
-                        "endOffset": 64
+                        "endColumn": 49,
+                        "endOffset": 62
                     }
                 }
             },
@@ -1964,9 +1964,9 @@
                 "to": {
                     "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 27356,
+                    "startOffset": 27350,
                     "endColumn": 73,
-                    "endOffset": 27425
+                    "endOffset": 27419
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -1976,9 +1976,9 @@
                 "to": {
                     "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 27430,
+                    "startOffset": 27424,
                     "endColumn": 77,
-                    "endOffset": 27503
+                    "endOffset": 27497
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -1988,9 +1988,9 @@
                 "to": {
                     "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 27508,
+                    "startOffset": 27502,
                     "endColumn": 92,
-                    "endOffset": 27596
+                    "endOffset": 27590
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2000,9 +2000,9 @@
                 "to": {
                     "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 27601,
+                    "startOffset": 27595,
                     "endColumn": 69,
-                    "endOffset": 27666
+                    "endOffset": 27660
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2012,9 +2012,9 @@
                 "to": {
                     "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 27671,
+                    "startOffset": 27665,
                     "endColumn": 77,
-                    "endOffset": 27744
+                    "endOffset": 27738
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2024,9 +2024,9 @@
                 "to": {
                     "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 27749,
+                    "startOffset": 27743,
                     "endColumn": 53,
-                    "endOffset": 27798
+                    "endOffset": 27792
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2036,9 +2036,9 @@
                 "to": {
                     "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 27803,
+                    "startOffset": 27797,
                     "endColumn": 69,
-                    "endOffset": 27868
+                    "endOffset": 27862
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2048,9 +2048,9 @@
                 "to": {
                     "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 27873,
+                    "startOffset": 27867,
                     "endColumn": 84,
-                    "endOffset": 27953
+                    "endOffset": 27947
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2060,9 +2060,9 @@
                 "to": {
                     "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 27958,
+                    "startOffset": 27952,
                     "endColumn": 47,
-                    "endOffset": 28001
+                    "endOffset": 27995
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2072,9 +2072,9 @@
                 "to": {
                     "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 28006,
+                    "startOffset": 28000,
                     "endColumn": 45,
-                    "endOffset": 28047
+                    "endOffset": 28041
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2084,9 +2084,9 @@
                 "to": {
                     "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 28052,
+                    "startOffset": 28046,
                     "endColumn": 51,
-                    "endOffset": 28099
+                    "endOffset": 28093
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2096,9 +2096,9 @@
                 "to": {
                     "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 28104,
+                    "startOffset": 28098,
                     "endColumn": 72,
-                    "endOffset": 28172
+                    "endOffset": 28166
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2108,9 +2108,9 @@
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 28177,
+                    "startOffset": 28171,
                     "endColumn": 73,
-                    "endOffset": 28246
+                    "endOffset": 28240
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2120,9 +2120,9 @@
                 "to": {
                     "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 28251,
+                    "startOffset": 28245,
                     "endColumn": 68,
-                    "endOffset": 28315
+                    "endOffset": 28309
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2132,9 +2132,9 @@
                 "to": {
                     "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 28320,
+                    "startOffset": 28314,
                     "endColumn": 74,
-                    "endOffset": 28390
+                    "endOffset": 28384
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2144,9 +2144,9 @@
                 "to": {
                     "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 28395,
+                    "startOffset": 28389,
                     "endColumn": 73,
-                    "endOffset": 28464
+                    "endOffset": 28458
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2156,9 +2156,9 @@
                 "to": {
                     "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 28469,
+                    "startOffset": 28463,
                     "endColumn": 73,
-                    "endOffset": 28538
+                    "endOffset": 28532
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2168,9 +2168,9 @@
                 "to": {
                     "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 28543,
+                    "startOffset": 28537,
                     "endColumn": 88,
-                    "endOffset": 28627
+                    "endOffset": 28621
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2180,9 +2180,9 @@
                 "to": {
                     "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 28632,
+                    "startOffset": 28626,
                     "endColumn": 69,
-                    "endOffset": 28697
+                    "endOffset": 28691
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2192,9 +2192,9 @@
                 "to": {
                     "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 28702,
+                    "startOffset": 28696,
                     "endColumn": 67,
-                    "endOffset": 28765
+                    "endOffset": 28759
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.github.javiersantos\\PiracyChecker\\0.0.2\\res\\values\\values.xml"
@@ -2204,9 +2204,9 @@
                 "to": {
                     "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 28770,
+                    "startOffset": 28764,
                     "endColumn": 54,
-                    "endOffset": 28820
+                    "endOffset": 28814
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.github.javiersantos\\PiracyChecker\\0.0.2\\res\\values\\values.xml"
@@ -2216,9 +2216,9 @@
                 "to": {
                     "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 28825,
+                    "startOffset": 28819,
                     "endColumn": 145,
-                    "endOffset": 28966
+                    "endOffset": 28960
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.github.javiersantos\\PiracyChecker\\0.0.2\\res\\values\\values.xml"
@@ -2228,9 +2228,9 @@
                 "to": {
                     "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 28971,
+                    "startOffset": 28965,
                     "endColumn": 41,
-                    "endOffset": 29008
+                    "endOffset": 29002
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.github.javiersantos\\PiracyChecker\\0.0.2\\res\\values\\values.xml"
@@ -2240,9 +2240,9 @@
                 "to": {
                     "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 29013,
+                    "startOffset": 29007,
                     "endColumn": 91,
-                    "endOffset": 29100
+                    "endOffset": 29094
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.github.javiersantos\\PiracyChecker\\0.0.2\\res\\values\\values.xml"
@@ -2252,9 +2252,9 @@
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 29105,
+                    "startOffset": 29099,
                     "endColumn": 116,
-                    "endOffset": 29217
+                    "endOffset": 29211
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.github.javiersantos\\PiracyChecker\\0.0.2\\res\\values\\values.xml"
@@ -2264,9 +2264,9 @@
                 "to": {
                     "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 29222,
+                    "startOffset": 29216,
                     "endColumn": 88,
-                    "endOffset": 29306
+                    "endOffset": 29300
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.github.javiersantos\\PiracyChecker\\0.0.2\\res\\values\\values.xml"
@@ -2276,9 +2276,9 @@
                 "to": {
                     "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 29311,
+                    "startOffset": 29305,
                     "endColumn": 199,
-                    "endOffset": 29506
+                    "endOffset": 29500
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.github.javiersantos\\PiracyChecker\\0.0.2\\res\\values\\values.xml"
@@ -2288,9 +2288,9 @@
                 "to": {
                     "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 29511,
+                    "startOffset": 29505,
                     "endColumn": 96,
-                    "endOffset": 29603
+                    "endOffset": 29597
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.github.javiersantos\\PiracyChecker\\0.0.2\\res\\values\\values.xml"
@@ -2300,9 +2300,9 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 29608,
+                    "startOffset": 29602,
                     "endColumn": 131,
-                    "endOffset": 29735
+                    "endOffset": 29729
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.github.javiersantos\\PiracyChecker\\0.0.2\\res\\values\\values.xml"
@@ -2312,9 +2312,9 @@
                 "to": {
                     "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 29740,
+                    "startOffset": 29734,
                     "endColumn": 91,
-                    "endOffset": 29827
+                    "endOffset": 29821
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.github.javiersantos\\PiracyChecker\\0.0.2\\res\\values\\values.xml"
@@ -2324,9 +2324,9 @@
                 "to": {
                     "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 29832,
+                    "startOffset": 29826,
                     "endColumn": 131,
-                    "endOffset": 29959
+                    "endOffset": 29953
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.github.javiersantos\\PiracyChecker\\0.0.2\\res\\values\\values.xml"
@@ -2336,9 +2336,9 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 29964,
+                    "startOffset": 29958,
                     "endColumn": 70,
-                    "endOffset": 30030
+                    "endOffset": 30024
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2348,9 +2348,9 @@
                 "to": {
                     "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 30035,
+                    "startOffset": 30029,
                     "endColumn": 89,
-                    "endOffset": 30120
+                    "endOffset": 30114
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\src\\main\\res\\values\\substratum_strings.xml"
@@ -2360,9 +2360,9 @@
                 "to": {
                     "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 30125,
+                    "startOffset": 30119,
                     "endColumn": 143,
-                    "endOffset": 30264
+                    "endOffset": 30258
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\src\\main\\res\\values\\substratum_strings.xml"
@@ -2372,9 +2372,9 @@
                 "to": {
                     "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 30269,
+                    "startOffset": 30263,
                     "endColumn": 77,
-                    "endOffset": 30342
+                    "endOffset": 30336
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\src\\main\\res\\values\\substratum_strings.xml"
@@ -2384,9 +2384,9 @@
                 "to": {
                     "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 30347,
+                    "startOffset": 30341,
                     "endColumn": 77,
-                    "endOffset": 30420
+                    "endOffset": 30414
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2396,9 +2396,9 @@
                 "to": {
                     "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 30425,
+                    "startOffset": 30419,
                     "endColumn": 89,
-                    "endOffset": 30510
+                    "endOffset": 30504
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2408,9 +2408,9 @@
                 "to": {
                     "startLine": 230,
                     "startColumn": 4,
-                    "startOffset": 30515,
+                    "startOffset": 30509,
                     "endColumn": 87,
-                    "endOffset": 30598
+                    "endOffset": 30592
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2420,9 +2420,9 @@
                 "to": {
                     "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 30603,
+                    "startOffset": 30597,
                     "endColumn": 95,
-                    "endOffset": 30694
+                    "endOffset": 30688
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2432,10 +2432,10 @@
                 "to": {
                     "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 30699,
+                    "startOffset": 30693,
                     "endLine": 238,
                     "endColumn": 12,
-                    "endOffset": 31124
+                    "endOffset": 31118
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\src\\main\\res\\values\\styles.xml"
@@ -2445,10 +2445,10 @@
                 "to": {
                     "startLine": 239,
                     "startColumn": 4,
-                    "startOffset": 31129,
+                    "startOffset": 31123,
                     "endLine": 245,
                     "endColumn": 12,
-                    "endOffset": 31625
+                    "endOffset": 31619
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2458,9 +2458,9 @@
                 "to": {
                     "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 31630,
+                    "startOffset": 31624,
                     "endColumn": 88,
-                    "endOffset": 31714
+                    "endOffset": 31708
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2470,10 +2470,10 @@
                 "to": {
                     "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 31719,
+                    "startOffset": 31713,
                     "endLine": 250,
                     "endColumn": 12,
-                    "endOffset": 31961
+                    "endOffset": 31955
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2483,10 +2483,10 @@
                 "to": {
                     "startLine": 251,
                     "startColumn": 4,
-                    "startOffset": 31966,
+                    "startOffset": 31960,
                     "endLine": 254,
                     "endColumn": 12,
-                    "endOffset": 32242
+                    "endOffset": 32236
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2496,10 +2496,10 @@
                 "to": {
                     "startLine": 255,
                     "startColumn": 4,
-                    "startOffset": 32247,
+                    "startOffset": 32241,
                     "endLine": 259,
                     "endColumn": 12,
-                    "endOffset": 32527
+                    "endOffset": 32521
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2509,10 +2509,10 @@
                 "to": {
                     "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 32532,
+                    "startOffset": 32526,
                     "endLine": 265,
                     "endColumn": 12,
-                    "endOffset": 32920
+                    "endOffset": 32914
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2522,10 +2522,10 @@
                 "to": {
                     "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 32925,
+                    "startOffset": 32919,
                     "endLine": 272,
                     "endColumn": 12,
-                    "endOffset": 33397
+                    "endOffset": 33391
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2535,10 +2535,10 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 33402,
+                    "startOffset": 33396,
                     "endLine": 276,
                     "endColumn": 12,
-                    "endOffset": 33619
+                    "endOffset": 33613
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2548,10 +2548,10 @@
                 "to": {
                     "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 33624,
+                    "startOffset": 33618,
                     "endLine": 280,
                     "endColumn": 12,
-                    "endOffset": 33841
+                    "endOffset": 33835
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2561,10 +2561,10 @@
                 "to": {
                     "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 33846,
+                    "startOffset": 33840,
                     "endLine": 285,
                     "endColumn": 12,
-                    "endOffset": 34109
+                    "endOffset": 34103
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2574,10 +2574,10 @@
                 "to": {
                     "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 34114,
+                    "startOffset": 34108,
                     "endLine": 289,
                     "endColumn": 12,
-                    "endOffset": 34336
+                    "endOffset": 34330
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2587,10 +2587,10 @@
                 "to": {
                     "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 34341,
+                    "startOffset": 34335,
                     "endLine": 293,
                     "endColumn": 12,
-                    "endOffset": 34566
+                    "endOffset": 34560
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2600,10 +2600,10 @@
                 "to": {
                     "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 34571,
+                    "startOffset": 34565,
                     "endLine": 297,
                     "endColumn": 12,
-                    "endOffset": 34796
+                    "endOffset": 34790
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2613,10 +2613,10 @@
                 "to": {
                     "startLine": 298,
                     "startColumn": 4,
-                    "startOffset": 34801,
+                    "startOffset": 34795,
                     "endLine": 301,
                     "endColumn": 12,
-                    "endOffset": 35026
+                    "endOffset": 35020
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2626,10 +2626,10 @@
                 "to": {
                     "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 35031,
+                    "startOffset": 35025,
                     "endLine": 305,
                     "endColumn": 12,
-                    "endOffset": 35256
+                    "endOffset": 35250
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2639,10 +2639,10 @@
                 "to": {
                     "startLine": 306,
                     "startColumn": 4,
-                    "startOffset": 35261,
+                    "startOffset": 35255,
                     "endLine": 309,
                     "endColumn": 12,
-                    "endOffset": 35483
+                    "endOffset": 35477
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2652,10 +2652,10 @@
                 "to": {
                     "startLine": 310,
                     "startColumn": 4,
-                    "startOffset": 35488,
+                    "startOffset": 35482,
                     "endLine": 313,
                     "endColumn": 12,
-                    "endOffset": 35722
+                    "endOffset": 35716
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2665,10 +2665,10 @@
                 "to": {
                     "startLine": 314,
                     "startColumn": 4,
-                    "startOffset": 35727,
+                    "startOffset": 35721,
                     "endLine": 317,
                     "endColumn": 12,
-                    "endOffset": 35948
+                    "endOffset": 35942
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2678,10 +2678,10 @@
                 "to": {
                     "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 35953,
+                    "startOffset": 35947,
                     "endLine": 321,
                     "endColumn": 12,
-                    "endOffset": 36193
+                    "endOffset": 36187
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2691,10 +2691,10 @@
                 "to": {
                     "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 36198,
+                    "startOffset": 36192,
                     "endLine": 323,
                     "endColumn": 12,
-                    "endOffset": 36323
+                    "endOffset": 36317
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2704,10 +2704,10 @@
                 "to": {
                     "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 36328,
+                    "startOffset": 36322,
                     "endLine": 325,
                     "endColumn": 12,
-                    "endOffset": 36453
+                    "endOffset": 36447
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2717,10 +2717,10 @@
                 "to": {
                     "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 36458,
+                    "startOffset": 36452,
                     "endLine": 329,
                     "endColumn": 12,
-                    "endOffset": 36683
+                    "endOffset": 36677
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2730,10 +2730,10 @@
                 "to": {
                     "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 36688,
+                    "startOffset": 36682,
                     "endLine": 333,
                     "endColumn": 12,
-                    "endOffset": 36931
+                    "endOffset": 36925
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2743,10 +2743,10 @@
                 "to": {
                     "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 36936,
+                    "startOffset": 36930,
                     "endLine": 337,
                     "endColumn": 12,
-                    "endOffset": 37150
+                    "endOffset": 37144
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2756,10 +2756,10 @@
                 "to": {
                     "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 37155,
+                    "startOffset": 37149,
                     "endLine": 342,
                     "endColumn": 12,
-                    "endOffset": 37433
+                    "endOffset": 37427
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2769,10 +2769,10 @@
                 "to": {
                     "startLine": 343,
                     "startColumn": 4,
-                    "startOffset": 37438,
+                    "startOffset": 37432,
                     "endLine": 346,
                     "endColumn": 12,
-                    "endOffset": 37641
+                    "endOffset": 37635
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2782,10 +2782,10 @@
                 "to": {
                     "startLine": 347,
                     "startColumn": 4,
-                    "startOffset": 37646,
+                    "startOffset": 37640,
                     "endLine": 349,
                     "endColumn": 12,
-                    "endOffset": 37772
+                    "endOffset": 37766
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2795,10 +2795,10 @@
                 "to": {
                     "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 37777,
+                    "startOffset": 37771,
                     "endLine": 353,
                     "endColumn": 12,
-                    "endOffset": 37999
+                    "endOffset": 37993
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2808,10 +2808,10 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 38004,
+                    "startOffset": 37998,
                     "endLine": 357,
                     "endColumn": 12,
-                    "endOffset": 38245
+                    "endOffset": 38239
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2821,10 +2821,10 @@
                 "to": {
                     "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 38250,
+                    "startOffset": 38244,
                     "endLine": 361,
                     "endColumn": 12,
-                    "endOffset": 38470
+                    "endOffset": 38464
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2834,10 +2834,10 @@
                 "to": {
                     "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 38475,
+                    "startOffset": 38469,
                     "endLine": 365,
                     "endColumn": 12,
-                    "endOffset": 38717
+                    "endOffset": 38711
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2847,10 +2847,10 @@
                 "to": {
                     "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 38722,
+                    "startOffset": 38716,
                     "endLine": 369,
                     "endColumn": 12,
-                    "endOffset": 38938
+                    "endOffset": 38932
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2860,10 +2860,10 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 38943,
+                    "startOffset": 38937,
                     "endLine": 373,
                     "endColumn": 12,
-                    "endOffset": 39183
+                    "endOffset": 39177
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2873,10 +2873,10 @@
                 "to": {
                     "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 39188,
+                    "startOffset": 39182,
                     "endLine": 377,
                     "endColumn": 12,
-                    "endOffset": 39459
+                    "endOffset": 39453
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2886,10 +2886,10 @@
                 "to": {
                     "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 39464,
+                    "startOffset": 39458,
                     "endLine": 381,
                     "endColumn": 12,
-                    "endOffset": 39760
+                    "endOffset": 39754
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2899,10 +2899,10 @@
                 "to": {
                     "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 39765,
+                    "startOffset": 39759,
                     "endLine": 385,
                     "endColumn": 12,
-                    "endOffset": 40084
+                    "endOffset": 40078
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2912,10 +2912,10 @@
                 "to": {
                     "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 40089,
+                    "startOffset": 40083,
                     "endLine": 389,
                     "endColumn": 12,
-                    "endOffset": 40375
+                    "endOffset": 40369
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2925,10 +2925,10 @@
                 "to": {
                     "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 40380,
+                    "startOffset": 40374,
                     "endLine": 393,
                     "endColumn": 12,
-                    "endOffset": 40689
+                    "endOffset": 40683
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2938,9 +2938,9 @@
                 "to": {
                     "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 40694,
+                    "startOffset": 40688,
                     "endColumn": 136,
-                    "endOffset": 40826
+                    "endOffset": 40820
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2950,9 +2950,9 @@
                 "to": {
                     "startLine": 395,
                     "startColumn": 4,
-                    "startOffset": 40831,
+                    "startOffset": 40825,
                     "endColumn": 130,
-                    "endOffset": 40957
+                    "endOffset": 40951
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2962,9 +2962,9 @@
                 "to": {
                     "startLine": 396,
                     "startColumn": 4,
-                    "startOffset": 40962,
+                    "startOffset": 40956,
                     "endColumn": 104,
-                    "endOffset": 41062
+                    "endOffset": 41056
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2974,10 +2974,10 @@
                 "to": {
                     "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 41067,
+                    "startOffset": 41061,
                     "endLine": 399,
                     "endColumn": 12,
-                    "endOffset": 41266
+                    "endOffset": 41260
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -2987,10 +2987,10 @@
                 "to": {
                     "startLine": 400,
                     "startColumn": 4,
-                    "startOffset": 41271,
+                    "startOffset": 41265,
                     "endLine": 402,
                     "endColumn": 12,
-                    "endOffset": 41474
+                    "endOffset": 41468
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3000,10 +3000,10 @@
                 "to": {
                     "startLine": 403,
                     "startColumn": 4,
-                    "startOffset": 41479,
+                    "startOffset": 41473,
                     "endLine": 404,
                     "endColumn": 12,
-                    "endOffset": 41598
+                    "endOffset": 41592
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3013,10 +3013,10 @@
                 "to": {
                     "startLine": 405,
                     "startColumn": 4,
-                    "startOffset": 41603,
+                    "startOffset": 41597,
                     "endLine": 406,
                     "endColumn": 12,
-                    "endOffset": 41722
+                    "endOffset": 41716
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3026,9 +3026,9 @@
                 "to": {
                     "startLine": 407,
                     "startColumn": 4,
-                    "startOffset": 41727,
+                    "startOffset": 41721,
                     "endColumn": 104,
-                    "endOffset": 41827
+                    "endOffset": 41821
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3038,9 +3038,9 @@
                 "to": {
                     "startLine": 408,
                     "startColumn": 4,
-                    "startOffset": 41832,
+                    "startOffset": 41826,
                     "endColumn": 116,
-                    "endOffset": 41944
+                    "endOffset": 41938
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3050,10 +3050,10 @@
                 "to": {
                     "startLine": 409,
                     "startColumn": 4,
-                    "startOffset": 41949,
+                    "startOffset": 41943,
                     "endLine": 411,
                     "endColumn": 12,
-                    "endOffset": 42158
+                    "endOffset": 42152
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3063,10 +3063,10 @@
                 "to": {
                     "startLine": 412,
                     "startColumn": 4,
-                    "startOffset": 42163,
+                    "startOffset": 42157,
                     "endLine": 413,
                     "endColumn": 12,
-                    "endOffset": 42304
+                    "endOffset": 42298
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3076,10 +3076,10 @@
                 "to": {
                     "startLine": 414,
                     "startColumn": 4,
-                    "startOffset": 42309,
+                    "startOffset": 42303,
                     "endLine": 415,
                     "endColumn": 12,
-                    "endOffset": 42444
+                    "endOffset": 42438
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3089,10 +3089,10 @@
                 "to": {
                     "startLine": 416,
                     "startColumn": 4,
-                    "startOffset": 42449,
+                    "startOffset": 42443,
                     "endLine": 417,
                     "endColumn": 12,
-                    "endOffset": 42530
+                    "endOffset": 42524
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3102,10 +3102,10 @@
                 "to": {
                     "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 42535,
+                    "startOffset": 42529,
                     "endLine": 422,
                     "endColumn": 12,
-                    "endOffset": 42878
+                    "endOffset": 42872
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3115,9 +3115,9 @@
                 "to": {
                     "startLine": 423,
                     "startColumn": 4,
-                    "startOffset": 42883,
+                    "startOffset": 42877,
                     "endColumn": 87,
-                    "endOffset": 42966
+                    "endOffset": 42960
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3127,10 +3127,10 @@
                 "to": {
                     "startLine": 424,
                     "startColumn": 4,
-                    "startOffset": 42971,
+                    "startOffset": 42965,
                     "endLine": 427,
                     "endColumn": 12,
-                    "endOffset": 43196
+                    "endOffset": 43190
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3140,10 +3140,10 @@
                 "to": {
                     "startLine": 428,
                     "startColumn": 4,
-                    "startOffset": 43201,
+                    "startOffset": 43195,
                     "endLine": 433,
                     "endColumn": 12,
-                    "endOffset": 43614
+                    "endOffset": 43608
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3153,10 +3153,10 @@
                 "to": {
                     "startLine": 434,
                     "startColumn": 4,
-                    "startOffset": 43619,
+                    "startOffset": 43613,
                     "endLine": 437,
                     "endColumn": 12,
-                    "endOffset": 43847
+                    "endOffset": 43841
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3166,9 +3166,9 @@
                 "to": {
                     "startLine": 438,
                     "startColumn": 4,
-                    "startOffset": 43852,
+                    "startOffset": 43846,
                     "endColumn": 81,
-                    "endOffset": 43929
+                    "endOffset": 43923
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3178,10 +3178,10 @@
                 "to": {
                     "startLine": 439,
                     "startColumn": 4,
-                    "startOffset": 43934,
+                    "startOffset": 43928,
                     "endLine": 440,
                     "endColumn": 12,
-                    "endOffset": 44027
+                    "endOffset": 44021
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3191,10 +3191,10 @@
                 "to": {
                     "startLine": 441,
                     "startColumn": 4,
-                    "startOffset": 44032,
+                    "startOffset": 44026,
                     "endLine": 451,
                     "endColumn": 12,
-                    "endOffset": 44644
+                    "endOffset": 44638
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3204,9 +3204,9 @@
                 "to": {
                     "startLine": 452,
                     "startColumn": 4,
-                    "startOffset": 44649,
+                    "startOffset": 44643,
                     "endColumn": 99,
-                    "endOffset": 44744
+                    "endOffset": 44738
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3216,10 +3216,10 @@
                 "to": {
                     "startLine": 453,
                     "startColumn": 4,
-                    "startOffset": 44749,
+                    "startOffset": 44743,
                     "endLine": 456,
                     "endColumn": 12,
-                    "endOffset": 44980
+                    "endOffset": 44974
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3229,10 +3229,10 @@
                 "to": {
                     "startLine": 457,
                     "startColumn": 4,
-                    "startOffset": 44985,
+                    "startOffset": 44979,
                     "endLine": 462,
                     "endColumn": 12,
-                    "endOffset": 45404
+                    "endOffset": 45398
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3242,10 +3242,10 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 45409,
+                    "startOffset": 45403,
                     "endLine": 466,
                     "endColumn": 12,
-                    "endOffset": 45643
+                    "endOffset": 45637
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3255,9 +3255,9 @@
                 "to": {
                     "startLine": 467,
                     "startColumn": 4,
-                    "startOffset": 45648,
+                    "startOffset": 45642,
                     "endColumn": 93,
-                    "endOffset": 45737
+                    "endOffset": 45731
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3267,9 +3267,9 @@
                 "to": {
                     "startLine": 468,
                     "startColumn": 4,
-                    "startOffset": 45742,
+                    "startOffset": 45736,
                     "endColumn": 88,
-                    "endOffset": 45826
+                    "endOffset": 45820
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3279,10 +3279,10 @@
                 "to": {
                     "startLine": 469,
                     "startColumn": 4,
-                    "startOffset": 45831,
+                    "startOffset": 45825,
                     "endLine": 472,
                     "endColumn": 12,
-                    "endOffset": 46063
+                    "endOffset": 46057
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3292,10 +3292,10 @@
                 "to": {
                     "startLine": 473,
                     "startColumn": 4,
-                    "startOffset": 46068,
+                    "startOffset": 46062,
                     "endLine": 498,
                     "endColumn": 12,
-                    "endOffset": 48014
+                    "endOffset": 48008
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3305,10 +3305,10 @@
                 "to": {
                     "startLine": 499,
                     "startColumn": 4,
-                    "startOffset": 48019,
+                    "startOffset": 48013,
                     "endLine": 502,
                     "endColumn": 12,
-                    "endOffset": 48256
+                    "endOffset": 48250
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3318,10 +3318,10 @@
                 "to": {
                     "startLine": 503,
                     "startColumn": 4,
-                    "startOffset": 48261,
+                    "startOffset": 48255,
                     "endLine": 529,
                     "endColumn": 12,
-                    "endOffset": 50338
+                    "endOffset": 50332
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3331,10 +3331,10 @@
                 "to": {
                     "startLine": 530,
                     "startColumn": 4,
-                    "startOffset": 50343,
+                    "startOffset": 50337,
                     "endLine": 684,
                     "endColumn": 12,
-                    "endOffset": 60204
+                    "endOffset": 60198
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3344,10 +3344,10 @@
                 "to": {
                     "startLine": 685,
                     "startColumn": 4,
-                    "startOffset": 60209,
+                    "startOffset": 60203,
                     "endLine": 706,
                     "endColumn": 12,
-                    "endOffset": 61471
+                    "endOffset": 61465
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3357,10 +3357,10 @@
                 "to": {
                     "startLine": 707,
                     "startColumn": 4,
-                    "startOffset": 61476,
+                    "startOffset": 61470,
                     "endLine": 861,
                     "endColumn": 12,
-                    "endOffset": 71447
+                    "endOffset": 71441
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3370,10 +3370,10 @@
                 "to": {
                     "startLine": 862,
                     "startColumn": 4,
-                    "startOffset": 71452,
+                    "startOffset": 71446,
                     "endLine": 883,
                     "endColumn": 12,
-                    "endOffset": 72728
+                    "endOffset": 72722
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3383,10 +3383,10 @@
                 "to": {
                     "startLine": 884,
                     "startColumn": 4,
-                    "startOffset": 72733,
+                    "startOffset": 72727,
                     "endLine": 890,
                     "endColumn": 12,
-                    "endOffset": 73264
+                    "endOffset": 73258
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3396,10 +3396,10 @@
                 "to": {
                     "startLine": 891,
                     "startColumn": 4,
-                    "startOffset": 73269,
+                    "startOffset": 73263,
                     "endLine": 895,
                     "endColumn": 12,
-                    "endOffset": 73594
+                    "endOffset": 73588
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3409,10 +3409,10 @@
                 "to": {
                     "startLine": 896,
                     "startColumn": 4,
-                    "startOffset": 73599,
+                    "startOffset": 73593,
                     "endLine": 916,
                     "endColumn": 12,
-                    "endOffset": 74717
+                    "endOffset": 74711
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3422,10 +3422,10 @@
                 "to": {
                     "startLine": 917,
                     "startColumn": 4,
-                    "startOffset": 74722,
+                    "startOffset": 74716,
                     "endLine": 921,
                     "endColumn": 12,
-                    "endOffset": 74973
+                    "endOffset": 74967
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3435,10 +3435,10 @@
                 "to": {
                     "startLine": 922,
                     "startColumn": 4,
-                    "startOffset": 74978,
+                    "startOffset": 74972,
                     "endLine": 926,
                     "endColumn": 12,
-                    "endOffset": 75209
+                    "endOffset": 75203
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3448,10 +3448,10 @@
                 "to": {
                     "startLine": 927,
                     "startColumn": 4,
-                    "startOffset": 75214,
+                    "startOffset": 75208,
                     "endLine": 936,
                     "endColumn": 12,
-                    "endOffset": 75756
+                    "endOffset": 75750
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3461,10 +3461,10 @@
                 "to": {
                     "startLine": 937,
                     "startColumn": 4,
-                    "startOffset": 75761,
+                    "startOffset": 75755,
                     "endLine": 945,
                     "endColumn": 12,
-                    "endOffset": 76250
+                    "endOffset": 76244
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3474,10 +3474,10 @@
                 "to": {
                     "startLine": 946,
                     "startColumn": 4,
-                    "startOffset": 76255,
+                    "startOffset": 76249,
                     "endLine": 954,
                     "endColumn": 12,
-                    "endOffset": 76855
+                    "endOffset": 76849
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3487,10 +3487,10 @@
                 "to": {
                     "startLine": 955,
                     "startColumn": 4,
-                    "startOffset": 76860,
+                    "startOffset": 76854,
                     "endLine": 957,
                     "endColumn": 12,
-                    "endOffset": 77003
+                    "endOffset": 76997
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3500,10 +3500,10 @@
                 "to": {
                     "startLine": 958,
                     "startColumn": 4,
-                    "startOffset": 77008,
+                    "startOffset": 77002,
                     "endLine": 964,
                     "endColumn": 12,
-                    "endOffset": 77591
+                    "endOffset": 77585
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3513,10 +3513,10 @@
                 "to": {
                     "startLine": 965,
                     "startColumn": 4,
-                    "startOffset": 77596,
+                    "startOffset": 77590,
                     "endLine": 972,
                     "endColumn": 12,
-                    "endOffset": 78155
+                    "endOffset": 78149
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3526,10 +3526,10 @@
                 "to": {
                     "startLine": 973,
                     "startColumn": 4,
-                    "startOffset": 78160,
+                    "startOffset": 78154,
                     "endLine": 979,
                     "endColumn": 12,
-                    "endOffset": 78530
+                    "endOffset": 78524
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3539,9 +3539,9 @@
                 "to": {
                     "startLine": 980,
                     "startColumn": 4,
-                    "startOffset": 78535,
+                    "startOffset": 78529,
                     "endColumn": 117,
-                    "endOffset": 78648
+                    "endOffset": 78642
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3551,10 +3551,10 @@
                 "to": {
                     "startLine": 981,
                     "startColumn": 4,
-                    "startOffset": 78653,
+                    "startOffset": 78647,
                     "endLine": 989,
                     "endColumn": 12,
-                    "endOffset": 79186
+                    "endOffset": 79180
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3564,10 +3564,10 @@
                 "to": {
                     "startLine": 990,
                     "startColumn": 4,
-                    "startOffset": 79191,
+                    "startOffset": 79185,
                     "endLine": 992,
                     "endColumn": 12,
-                    "endOffset": 79343
+                    "endOffset": 79337
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3577,10 +3577,10 @@
                 "to": {
                     "startLine": 993,
                     "startColumn": 4,
-                    "startOffset": 79348,
+                    "startOffset": 79342,
                     "endLine": 995,
                     "endColumn": 12,
-                    "endOffset": 79487
+                    "endOffset": 79481
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3590,10 +3590,10 @@
                 "to": {
                     "startLine": 996,
                     "startColumn": 4,
-                    "startOffset": 79492,
+                    "startOffset": 79486,
                     "endLine": 1000,
                     "endColumn": 12,
-                    "endOffset": 79807
+                    "endOffset": 79801
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3603,10 +3603,10 @@
                 "to": {
                     "startLine": 1001,
                     "startColumn": 4,
-                    "startOffset": 79812,
+                    "startOffset": 79806,
                     "endLine": 1004,
                     "endColumn": 12,
-                    "endOffset": 80063
+                    "endOffset": 80057
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3616,10 +3616,10 @@
                 "to": {
                     "startLine": 1005,
                     "startColumn": 4,
-                    "startOffset": 80068,
+                    "startOffset": 80062,
                     "endLine": 1008,
                     "endColumn": 12,
-                    "endOffset": 80233
+                    "endOffset": 80227
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3629,10 +3629,10 @@
                 "to": {
                     "startLine": 1009,
                     "startColumn": 4,
-                    "startOffset": 80238,
+                    "startOffset": 80232,
                     "endLine": 1011,
                     "endColumn": 12,
-                    "endOffset": 80374
+                    "endOffset": 80368
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3642,9 +3642,9 @@
                 "to": {
                     "startLine": 1012,
                     "startColumn": 4,
-                    "startOffset": 80379,
+                    "startOffset": 80373,
                     "endColumn": 63,
-                    "endOffset": 80438
+                    "endOffset": 80432
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3654,10 +3654,10 @@
                 "to": {
                     "startLine": 1013,
                     "startColumn": 4,
-                    "startOffset": 80443,
+                    "startOffset": 80437,
                     "endLine": 1016,
                     "endColumn": 12,
-                    "endOffset": 80720
+                    "endOffset": 80714
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3667,10 +3667,10 @@
                 "to": {
                     "startLine": 1017,
                     "startColumn": 4,
-                    "startOffset": 80725,
+                    "startOffset": 80719,
                     "endLine": 1020,
                     "endColumn": 12,
-                    "endOffset": 81006
+                    "endOffset": 81000
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3680,10 +3680,10 @@
                 "to": {
                     "startLine": 1021,
                     "startColumn": 4,
-                    "startOffset": 81011,
+                    "startOffset": 81005,
                     "endLine": 1030,
                     "endColumn": 12,
-                    "endOffset": 81682
+                    "endOffset": 81676
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3693,10 +3693,10 @@
                 "to": {
                     "startLine": 1031,
                     "startColumn": 4,
-                    "startOffset": 81687,
+                    "startOffset": 81681,
                     "endLine": 1035,
                     "endColumn": 12,
-                    "endOffset": 81946
+                    "endOffset": 81940
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3706,10 +3706,10 @@
                 "to": {
                     "startLine": 1036,
                     "startColumn": 4,
-                    "startOffset": 81951,
+                    "startOffset": 81945,
                     "endLine": 1042,
                     "endColumn": 12,
-                    "endOffset": 82284
+                    "endOffset": 82278
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3719,10 +3719,10 @@
                 "to": {
                     "startLine": 1043,
                     "startColumn": 4,
-                    "startOffset": 82289,
+                    "startOffset": 82283,
                     "endLine": 1048,
                     "endColumn": 12,
-                    "endOffset": 82637
+                    "endOffset": 82631
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3732,9 +3732,9 @@
                 "to": {
                     "startLine": 1049,
                     "startColumn": 4,
-                    "startOffset": 82642,
+                    "startOffset": 82636,
                     "endColumn": 93,
-                    "endOffset": 82731
+                    "endOffset": 82725
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3744,10 +3744,10 @@
                 "to": {
                     "startLine": 1050,
                     "startColumn": 4,
-                    "startOffset": 82736,
+                    "startOffset": 82730,
                     "endLine": 1052,
                     "endColumn": 12,
-                    "endOffset": 82917
+                    "endOffset": 82911
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3757,10 +3757,10 @@
                 "to": {
                     "startLine": 1053,
                     "startColumn": 4,
-                    "startOffset": 82922,
+                    "startOffset": 82916,
                     "endLine": 1056,
                     "endColumn": 12,
-                    "endOffset": 83223
+                    "endOffset": 83217
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3770,10 +3770,10 @@
                 "to": {
                     "startLine": 1057,
                     "startColumn": 4,
-                    "startOffset": 83228,
+                    "startOffset": 83222,
                     "endLine": 1061,
                     "endColumn": 12,
-                    "endOffset": 83485
+                    "endOffset": 83479
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3783,10 +3783,10 @@
                 "to": {
                     "startLine": 1062,
                     "startColumn": 4,
-                    "startOffset": 83490,
+                    "startOffset": 83484,
                     "endLine": 1063,
                     "endColumn": 12,
-                    "endOffset": 83610
+                    "endOffset": 83604
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3796,10 +3796,10 @@
                 "to": {
                     "startLine": 1064,
                     "startColumn": 4,
-                    "startOffset": 83615,
+                    "startOffset": 83609,
                     "endLine": 1065,
                     "endColumn": 12,
-                    "endOffset": 83737
+                    "endOffset": 83731
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3809,10 +3809,10 @@
                 "to": {
                     "startLine": 1066,
                     "startColumn": 4,
-                    "startOffset": 83742,
+                    "startOffset": 83736,
                     "endLine": 1068,
                     "endColumn": 12,
-                    "endOffset": 83976
+                    "endOffset": 83970
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3822,10 +3822,10 @@
                 "to": {
                     "startLine": 1069,
                     "startColumn": 4,
-                    "startOffset": 83981,
+                    "startOffset": 83975,
                     "endLine": 1071,
                     "endColumn": 12,
-                    "endOffset": 84187
+                    "endOffset": 84181
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3835,10 +3835,10 @@
                 "to": {
                     "startLine": 1072,
                     "startColumn": 4,
-                    "startOffset": 84192,
+                    "startOffset": 84186,
                     "endLine": 1073,
                     "endColumn": 12,
-                    "endOffset": 84306
+                    "endOffset": 84300
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3848,10 +3848,10 @@
                 "to": {
                     "startLine": 1074,
                     "startColumn": 4,
-                    "startOffset": 84311,
+                    "startOffset": 84305,
                     "endLine": 1077,
                     "endColumn": 12,
-                    "endOffset": 84499
+                    "endOffset": 84493
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3861,10 +3861,10 @@
                 "to": {
                     "startLine": 1078,
                     "startColumn": 4,
-                    "startOffset": 84504,
+                    "startOffset": 84498,
                     "endLine": 1084,
                     "endColumn": 12,
-                    "endOffset": 84954
+                    "endOffset": 84948
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3874,10 +3874,10 @@
                 "to": {
                     "startLine": 1085,
                     "startColumn": 4,
-                    "startOffset": 84959,
+                    "startOffset": 84953,
                     "endLine": 1087,
                     "endColumn": 12,
-                    "endOffset": 85135
+                    "endOffset": 85129
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3887,10 +3887,10 @@
                 "to": {
                     "startLine": 1088,
                     "startColumn": 4,
-                    "startOffset": 85140,
+                    "startOffset": 85134,
                     "endLine": 1090,
                     "endColumn": 12,
-                    "endOffset": 85257
+                    "endOffset": 85251
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3900,10 +3900,10 @@
                 "to": {
                     "startLine": 1091,
                     "startColumn": 4,
-                    "startOffset": 85262,
+                    "startOffset": 85256,
                     "endLine": 1094,
                     "endColumn": 12,
-                    "endOffset": 85516
+                    "endOffset": 85510
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3913,10 +3913,10 @@
                 "to": {
                     "startLine": 1095,
                     "startColumn": 4,
-                    "startOffset": 85521,
+                    "startOffset": 85515,
                     "endLine": 1096,
                     "endColumn": 12,
-                    "endOffset": 85629
+                    "endOffset": 85623
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3926,10 +3926,10 @@
                 "to": {
                     "startLine": 1097,
                     "startColumn": 4,
-                    "startOffset": 85634,
+                    "startOffset": 85628,
                     "endLine": 1100,
                     "endColumn": 12,
-                    "endOffset": 85816
+                    "endOffset": 85810
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3939,10 +3939,10 @@
                 "to": {
                     "startLine": 1101,
                     "startColumn": 4,
-                    "startOffset": 85821,
+                    "startOffset": 85815,
                     "endLine": 1102,
                     "endColumn": 12,
-                    "endOffset": 85918
+                    "endOffset": 85912
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3952,10 +3952,10 @@
                 "to": {
                     "startLine": 1103,
                     "startColumn": 4,
-                    "startOffset": 85923,
+                    "startOffset": 85917,
                     "endLine": 1108,
                     "endColumn": 12,
-                    "endOffset": 86362
+                    "endOffset": 86356
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3965,10 +3965,10 @@
                 "to": {
                     "startLine": 1109,
                     "startColumn": 4,
-                    "startOffset": 86367,
+                    "startOffset": 86361,
                     "endLine": 1110,
                     "endColumn": 12,
-                    "endOffset": 86486
+                    "endOffset": 86480
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3978,10 +3978,10 @@
                 "to": {
                     "startLine": 1111,
                     "startColumn": 4,
-                    "startOffset": 86491,
+                    "startOffset": 86485,
                     "endLine": 1114,
                     "endColumn": 12,
-                    "endOffset": 86771
+                    "endOffset": 86765
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -3991,10 +3991,10 @@
                 "to": {
                     "startLine": 1115,
                     "startColumn": 4,
-                    "startOffset": 86776,
+                    "startOffset": 86770,
                     "endLine": 1122,
                     "endColumn": 12,
-                    "endOffset": 87279
+                    "endOffset": 87273
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4004,10 +4004,10 @@
                 "to": {
                     "startLine": 1123,
                     "startColumn": 4,
-                    "startOffset": 87284,
+                    "startOffset": 87278,
                     "endLine": 1130,
                     "endColumn": 12,
-                    "endOffset": 87775
+                    "endOffset": 87769
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4017,10 +4017,10 @@
                 "to": {
                     "startLine": 1131,
                     "startColumn": 4,
-                    "startOffset": 87780,
+                    "startOffset": 87774,
                     "endLine": 1142,
                     "endColumn": 12,
-                    "endOffset": 88662
+                    "endOffset": 88656
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4030,10 +4030,10 @@
                 "to": {
                     "startLine": 1143,
                     "startColumn": 4,
-                    "startOffset": 88667,
+                    "startOffset": 88661,
                     "endLine": 1148,
                     "endColumn": 12,
-                    "endOffset": 88956
+                    "endOffset": 88950
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4043,10 +4043,10 @@
                 "to": {
                     "startLine": 1149,
                     "startColumn": 4,
-                    "startOffset": 88961,
+                    "startOffset": 88955,
                     "endLine": 1157,
                     "endColumn": 12,
-                    "endOffset": 89526
+                    "endOffset": 89520
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4056,10 +4056,10 @@
                 "to": {
                     "startLine": 1158,
                     "startColumn": 4,
-                    "startOffset": 89531,
+                    "startOffset": 89525,
                     "endLine": 1168,
                     "endColumn": 12,
-                    "endOffset": 90258
+                    "endOffset": 90252
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4069,10 +4069,10 @@
                 "to": {
                     "startLine": 1169,
                     "startColumn": 4,
-                    "startOffset": 90263,
+                    "startOffset": 90257,
                     "endLine": 1171,
                     "endColumn": 12,
-                    "endOffset": 90430
+                    "endOffset": 90424
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4082,10 +4082,10 @@
                 "to": {
                     "startLine": 1172,
                     "startColumn": 4,
-                    "startOffset": 90435,
+                    "startOffset": 90429,
                     "endLine": 1176,
                     "endColumn": 12,
-                    "endOffset": 90766
+                    "endOffset": 90760
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4095,10 +4095,10 @@
                 "to": {
                     "startLine": 1177,
                     "startColumn": 4,
-                    "startOffset": 90771,
+                    "startOffset": 90765,
                     "endLine": 1188,
                     "endColumn": 12,
-                    "endOffset": 91674
+                    "endOffset": 91668
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4108,10 +4108,10 @@
                 "to": {
                     "startLine": 1189,
                     "startColumn": 4,
-                    "startOffset": 91679,
+                    "startOffset": 91673,
                     "endLine": 1193,
                     "endColumn": 12,
-                    "endOffset": 91952
+                    "endOffset": 91946
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4121,10 +4121,10 @@
                 "to": {
                     "startLine": 1194,
                     "startColumn": 4,
-                    "startOffset": 91957,
+                    "startOffset": 91951,
                     "endLine": 1231,
                     "endColumn": 12,
-                    "endOffset": 94814
+                    "endOffset": 94808
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4134,10 +4134,10 @@
                 "to": {
                     "startLine": 1232,
                     "startColumn": 4,
-                    "startOffset": 94819,
+                    "startOffset": 94813,
                     "endLine": 1270,
                     "endColumn": 12,
-                    "endOffset": 97816
+                    "endOffset": 97810
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4147,9 +4147,9 @@
                 "to": {
                     "startLine": 1271,
                     "startColumn": 4,
-                    "startOffset": 97821,
+                    "startOffset": 97815,
                     "endColumn": 61,
-                    "endOffset": 97878
+                    "endOffset": 97872
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4159,10 +4159,10 @@
                 "to": {
                     "startLine": 1272,
                     "startColumn": 4,
-                    "startOffset": 97883,
+                    "startOffset": 97877,
                     "endLine": 1281,
                     "endColumn": 12,
-                    "endOffset": 98508
+                    "endOffset": 98502
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4172,10 +4172,10 @@
                 "to": {
                     "startLine": 1282,
                     "startColumn": 4,
-                    "startOffset": 98513,
+                    "startOffset": 98507,
                     "endLine": 1290,
                     "endColumn": 12,
-                    "endOffset": 99122
+                    "endOffset": 99116
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4185,9 +4185,9 @@
                 "to": {
                     "startLine": 1291,
                     "startColumn": 4,
-                    "startOffset": 99127,
+                    "startOffset": 99121,
                     "endColumn": 85,
-                    "endOffset": 99208
+                    "endOffset": 99202
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4197,10 +4197,10 @@
                 "to": {
                     "startLine": 1292,
                     "startColumn": 4,
-                    "startOffset": 99213,
+                    "startOffset": 99207,
                     "endLine": 1293,
                     "endColumn": 12,
-                    "endOffset": 99321
+                    "endOffset": 99315
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4210,10 +4210,10 @@
                 "to": {
                     "startLine": 1294,
                     "startColumn": 4,
-                    "startOffset": 99326,
+                    "startOffset": 99320,
                     "endLine": 1297,
                     "endColumn": 12,
-                    "endOffset": 99550
+                    "endOffset": 99544
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4223,10 +4223,10 @@
                 "to": {
                     "startLine": 1298,
                     "startColumn": 4,
-                    "startOffset": 99555,
+                    "startOffset": 99549,
                     "endLine": 1300,
                     "endColumn": 12,
-                    "endOffset": 99710
+                    "endOffset": 99704
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4236,10 +4236,10 @@
                 "to": {
                     "startLine": 1301,
                     "startColumn": 4,
-                    "startOffset": 99715,
+                    "startOffset": 99709,
                     "endLine": 1303,
                     "endColumn": 12,
-                    "endOffset": 99862
+                    "endOffset": 99856
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4249,10 +4249,10 @@
                 "to": {
                     "startLine": 1304,
                     "startColumn": 4,
-                    "startOffset": 99867,
+                    "startOffset": 99861,
                     "endLine": 1306,
                     "endColumn": 12,
-                    "endOffset": 100033
+                    "endOffset": 100027
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4262,10 +4262,10 @@
                 "to": {
                     "startLine": 1307,
                     "startColumn": 4,
-                    "startOffset": 100038,
+                    "startOffset": 100032,
                     "endLine": 1309,
                     "endColumn": 12,
-                    "endOffset": 100200
+                    "endOffset": 100194
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4275,10 +4275,10 @@
                 "to": {
                     "startLine": 1310,
                     "startColumn": 4,
-                    "startOffset": 100205,
+                    "startOffset": 100199,
                     "endLine": 1313,
                     "endColumn": 12,
-                    "endOffset": 100443
+                    "endOffset": 100437
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4288,10 +4288,10 @@
                 "to": {
                     "startLine": 1314,
                     "startColumn": 4,
-                    "startOffset": 100448,
+                    "startOffset": 100442,
                     "endLine": 1316,
                     "endColumn": 12,
-                    "endOffset": 100613
+                    "endOffset": 100607
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4301,10 +4301,10 @@
                 "to": {
                     "startLine": 1317,
                     "startColumn": 4,
-                    "startOffset": 100618,
+                    "startOffset": 100612,
                     "endLine": 1319,
                     "endColumn": 12,
-                    "endOffset": 100786
+                    "endOffset": 100780
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4314,10 +4314,10 @@
                 "to": {
                     "startLine": 1320,
                     "startColumn": 4,
-                    "startOffset": 100791,
+                    "startOffset": 100785,
                     "endLine": 1322,
                     "endColumn": 12,
-                    "endOffset": 100957
+                    "endOffset": 100951
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4327,10 +4327,10 @@
                 "to": {
                     "startLine": 1323,
                     "startColumn": 4,
-                    "startOffset": 100962,
+                    "startOffset": 100956,
                     "endLine": 1326,
                     "endColumn": 12,
-                    "endOffset": 101231
+                    "endOffset": 101225
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4340,10 +4340,10 @@
                 "to": {
                     "startLine": 1327,
                     "startColumn": 4,
-                    "startOffset": 101236,
+                    "startOffset": 101230,
                     "endLine": 1329,
                     "endColumn": 12,
-                    "endOffset": 101430
+                    "endOffset": 101424
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4353,10 +4353,10 @@
                 "to": {
                     "startLine": 1330,
                     "startColumn": 4,
-                    "startOffset": 101435,
+                    "startOffset": 101429,
                     "endLine": 1333,
                     "endColumn": 12,
-                    "endOffset": 101635
+                    "endOffset": 101629
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4366,10 +4366,10 @@
                 "to": {
                     "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 101640,
+                    "startOffset": 101634,
                     "endLine": 1337,
                     "endColumn": 12,
-                    "endOffset": 101965
+                    "endOffset": 101959
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4379,9 +4379,9 @@
                 "to": {
                     "startLine": 1338,
                     "startColumn": 4,
-                    "startOffset": 101970,
+                    "startOffset": 101964,
                     "endColumn": 83,
-                    "endOffset": 102049
+                    "endOffset": 102043
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4391,9 +4391,9 @@
                 "to": {
                     "startLine": 1339,
                     "startColumn": 4,
-                    "startOffset": 102054,
+                    "startOffset": 102048,
                     "endColumn": 95,
-                    "endOffset": 102145
+                    "endOffset": 102139
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4403,9 +4403,9 @@
                 "to": {
                     "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 102150,
+                    "startOffset": 102144,
                     "endColumn": 95,
-                    "endOffset": 102241
+                    "endOffset": 102235
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4415,9 +4415,9 @@
                 "to": {
                     "startLine": 1341,
                     "startColumn": 4,
-                    "startOffset": 102246,
+                    "startOffset": 102240,
                     "endColumn": 97,
-                    "endOffset": 102339
+                    "endOffset": 102333
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4427,9 +4427,9 @@
                 "to": {
                     "startLine": 1342,
                     "startColumn": 4,
-                    "startOffset": 102344,
+                    "startOffset": 102338,
                     "endColumn": 99,
-                    "endOffset": 102439
+                    "endOffset": 102433
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4439,9 +4439,9 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 102444,
+                    "startOffset": 102438,
                     "endColumn": 101,
-                    "endOffset": 102541
+                    "endOffset": 102535
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4451,9 +4451,9 @@
                 "to": {
                     "startLine": 1344,
                     "startColumn": 4,
-                    "startOffset": 102546,
+                    "startOffset": 102540,
                     "endColumn": 101,
-                    "endOffset": 102643
+                    "endOffset": 102637
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4463,9 +4463,9 @@
                 "to": {
                     "startLine": 1345,
                     "startColumn": 4,
-                    "startOffset": 102648,
+                    "startOffset": 102642,
                     "endColumn": 101,
-                    "endOffset": 102745
+                    "endOffset": 102739
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4475,9 +4475,9 @@
                 "to": {
                     "startLine": 1346,
                     "startColumn": 4,
-                    "startOffset": 102750,
+                    "startOffset": 102744,
                     "endColumn": 101,
-                    "endOffset": 102847
+                    "endOffset": 102841
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4487,9 +4487,9 @@
                 "to": {
                     "startLine": 1347,
                     "startColumn": 4,
-                    "startOffset": 102852,
+                    "startOffset": 102846,
                     "endColumn": 101,
-                    "endOffset": 102949
+                    "endOffset": 102943
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4499,9 +4499,9 @@
                 "to": {
                     "startLine": 1348,
                     "startColumn": 4,
-                    "startOffset": 102954,
+                    "startOffset": 102948,
                     "endColumn": 99,
-                    "endOffset": 103049
+                    "endOffset": 103043
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4511,9 +4511,9 @@
                 "to": {
                     "startLine": 1349,
                     "startColumn": 4,
-                    "startOffset": 103054,
+                    "startOffset": 103048,
                     "endColumn": 95,
-                    "endOffset": 103145
+                    "endOffset": 103139
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4523,9 +4523,9 @@
                 "to": {
                     "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 103150,
+                    "startOffset": 103144,
                     "endColumn": 111,
-                    "endOffset": 103257
+                    "endOffset": 103251
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4535,9 +4535,9 @@
                 "to": {
                     "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 103262,
+                    "startOffset": 103256,
                     "endColumn": 128,
-                    "endOffset": 103386
+                    "endOffset": 103380
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4547,9 +4547,9 @@
                 "to": {
                     "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 103391,
+                    "startOffset": 103385,
                     "endColumn": 122,
-                    "endOffset": 103509
+                    "endOffset": 103503
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4559,10 +4559,10 @@
                 "to": {
                     "startLine": 1353,
                     "startColumn": 4,
-                    "startOffset": 103514,
+                    "startOffset": 103508,
                     "endLine": 1354,
                     "endColumn": 12,
-                    "endOffset": 103663
+                    "endOffset": 103657
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4572,10 +4572,10 @@
                 "to": {
                     "startLine": 1355,
                     "startColumn": 4,
-                    "startOffset": 103668,
+                    "startOffset": 103662,
                     "endLine": 1356,
                     "endColumn": 12,
-                    "endOffset": 103817
+                    "endOffset": 103811
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4585,9 +4585,9 @@
                 "to": {
                     "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 103822,
+                    "startOffset": 103816,
                     "endColumn": 97,
-                    "endOffset": 103915
+                    "endOffset": 103909
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4597,9 +4597,9 @@
                 "to": {
                     "startLine": 1358,
                     "startColumn": 4,
-                    "startOffset": 103920,
+                    "startOffset": 103914,
                     "endColumn": 113,
-                    "endOffset": 104029
+                    "endOffset": 104023
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4609,9 +4609,9 @@
                 "to": {
                     "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 104034,
+                    "startOffset": 104028,
                     "endColumn": 93,
-                    "endOffset": 104123
+                    "endOffset": 104117
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4621,10 +4621,10 @@
                 "to": {
                     "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 104128,
+                    "startOffset": 104122,
                     "endLine": 1361,
                     "endColumn": 12,
-                    "endOffset": 104263
+                    "endOffset": 104257
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4634,10 +4634,10 @@
                 "to": {
                     "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 104268,
+                    "startOffset": 104262,
                     "endLine": 1363,
                     "endColumn": 12,
-                    "endOffset": 104397
+                    "endOffset": 104391
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4647,9 +4647,9 @@
                 "to": {
                     "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 104402,
+                    "startOffset": 104396,
                     "endColumn": 95,
-                    "endOffset": 104493
+                    "endOffset": 104487
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4659,9 +4659,9 @@
                 "to": {
                     "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 104498,
+                    "startOffset": 104492,
                     "endColumn": 111,
-                    "endOffset": 104605
+                    "endOffset": 104599
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4671,9 +4671,9 @@
                 "to": {
                     "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 104610,
+                    "startOffset": 104604,
                     "endColumn": 99,
-                    "endOffset": 104705
+                    "endOffset": 104699
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4683,9 +4683,9 @@
                 "to": {
                     "startLine": 1367,
                     "startColumn": 4,
-                    "startOffset": 104710,
+                    "startOffset": 104704,
                     "endColumn": 115,
-                    "endOffset": 104821
+                    "endOffset": 104815
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4695,9 +4695,9 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 104826,
+                    "startOffset": 104820,
                     "endColumn": 95,
-                    "endOffset": 104917
+                    "endOffset": 104911
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4707,9 +4707,9 @@
                 "to": {
                     "startLine": 1369,
                     "startColumn": 4,
-                    "startOffset": 104922,
+                    "startOffset": 104916,
                     "endColumn": 111,
-                    "endOffset": 105029
+                    "endOffset": 105023
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4719,10 +4719,10 @@
                 "to": {
                     "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 105034,
+                    "startOffset": 105028,
                     "endLine": 1371,
                     "endColumn": 12,
-                    "endOffset": 105169
+                    "endOffset": 105163
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4732,9 +4732,9 @@
                 "to": {
                     "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 105174,
+                    "startOffset": 105168,
                     "endColumn": 135,
-                    "endOffset": 105305
+                    "endOffset": 105299
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4744,10 +4744,10 @@
                 "to": {
                     "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 105310,
+                    "startOffset": 105304,
                     "endLine": 1374,
                     "endColumn": 12,
-                    "endOffset": 105469
+                    "endOffset": 105463
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4757,9 +4757,9 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 105474,
+                    "startOffset": 105468,
                     "endColumn": 129,
-                    "endOffset": 105599
+                    "endOffset": 105593
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4769,10 +4769,10 @@
                 "to": {
                     "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 105604,
+                    "startOffset": 105598,
                     "endLine": 1377,
                     "endColumn": 12,
-                    "endOffset": 105757
+                    "endOffset": 105751
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4782,10 +4782,10 @@
                 "to": {
                     "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 105762,
+                    "startOffset": 105756,
                     "endLine": 1379,
                     "endColumn": 12,
-                    "endOffset": 105907
+                    "endOffset": 105901
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4795,9 +4795,9 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 105912,
+                    "startOffset": 105906,
                     "endColumn": 140,
-                    "endOffset": 106048
+                    "endOffset": 106042
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4807,10 +4807,10 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 106053,
+                    "startOffset": 106047,
                     "endLine": 1382,
                     "endColumn": 12,
-                    "endOffset": 106192
+                    "endOffset": 106186
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4820,9 +4820,9 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 106197,
+                    "startOffset": 106191,
                     "endColumn": 134,
-                    "endOffset": 106327
+                    "endOffset": 106321
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4832,9 +4832,9 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 106332,
+                    "startOffset": 106326,
                     "endColumn": 111,
-                    "endOffset": 106439
+                    "endOffset": 106433
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4844,9 +4844,9 @@
                 "to": {
                     "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 106444,
+                    "startOffset": 106438,
                     "endColumn": 127,
-                    "endOffset": 106567
+                    "endOffset": 106561
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4856,10 +4856,10 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 106572,
+                    "startOffset": 106566,
                     "endLine": 1387,
                     "endColumn": 12,
-                    "endOffset": 106703
+                    "endOffset": 106697
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4869,10 +4869,10 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 106708,
+                    "startOffset": 106702,
                     "endLine": 1389,
                     "endColumn": 12,
-                    "endOffset": 106845
+                    "endOffset": 106839
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4882,10 +4882,10 @@
                 "to": {
                     "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 106850,
+                    "startOffset": 106844,
                     "endLine": 1391,
                     "endColumn": 12,
-                    "endOffset": 106987
+                    "endOffset": 106981
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4895,9 +4895,9 @@
                 "to": {
                     "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 106992,
+                    "startOffset": 106986,
                     "endColumn": 111,
-                    "endOffset": 107099
+                    "endOffset": 107093
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4907,9 +4907,9 @@
                 "to": {
                     "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 107104,
+                    "startOffset": 107098,
                     "endColumn": 139,
-                    "endOffset": 107239
+                    "endOffset": 107233
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4919,9 +4919,9 @@
                 "to": {
                     "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 107244,
+                    "startOffset": 107238,
                     "endColumn": 67,
-                    "endOffset": 107307
+                    "endOffset": 107301
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4931,9 +4931,9 @@
                 "to": {
                     "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 107312,
+                    "startOffset": 107306,
                     "endColumn": 72,
-                    "endOffset": 107380
+                    "endOffset": 107374
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4943,9 +4943,9 @@
                 "to": {
                     "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 107385,
+                    "startOffset": 107379,
                     "endColumn": 73,
-                    "endOffset": 107454
+                    "endOffset": 107448
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4955,9 +4955,9 @@
                 "to": {
                     "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 107459,
+                    "startOffset": 107453,
                     "endColumn": 72,
-                    "endOffset": 107527
+                    "endOffset": 107521
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4967,9 +4967,9 @@
                 "to": {
                     "startLine": 1398,
                     "startColumn": 4,
-                    "startOffset": 107532,
+                    "startOffset": 107526,
                     "endColumn": 73,
-                    "endOffset": 107601
+                    "endOffset": 107595
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4979,10 +4979,10 @@
                 "to": {
                     "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 107606,
+                    "startOffset": 107600,
                     "endLine": 1400,
                     "endColumn": 12,
-                    "endOffset": 107747
+                    "endOffset": 107741
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -4992,10 +4992,10 @@
                 "to": {
                     "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 107752,
+                    "startOffset": 107746,
                     "endLine": 1402,
                     "endColumn": 12,
-                    "endOffset": 107891
+                    "endOffset": 107885
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5005,10 +5005,10 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 107896,
+                    "startOffset": 107890,
                     "endLine": 1404,
                     "endColumn": 12,
-                    "endOffset": 108029
+                    "endOffset": 108023
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5018,9 +5018,9 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 108034,
+                    "startOffset": 108028,
                     "endColumn": 65,
-                    "endOffset": 108095
+                    "endOffset": 108089
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5030,9 +5030,9 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 108100,
+                    "startOffset": 108094,
                     "endColumn": 89,
-                    "endOffset": 108185
+                    "endOffset": 108179
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5042,9 +5042,9 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 108190,
+                    "startOffset": 108184,
                     "endColumn": 75,
-                    "endOffset": 108261
+                    "endOffset": 108255
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5054,9 +5054,9 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 108266,
+                    "startOffset": 108260,
                     "endColumn": 103,
-                    "endOffset": 108365
+                    "endOffset": 108359
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5066,9 +5066,9 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 108370,
+                    "startOffset": 108364,
                     "endColumn": 89,
-                    "endOffset": 108455
+                    "endOffset": 108449
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5078,9 +5078,9 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 108460,
+                    "startOffset": 108454,
                     "endColumn": 101,
-                    "endOffset": 108557
+                    "endOffset": 108551
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5090,9 +5090,9 @@
                 "to": {
                     "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 108562,
+                    "startOffset": 108556,
                     "endColumn": 107,
-                    "endOffset": 108665
+                    "endOffset": 108659
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5102,9 +5102,9 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 108670,
+                    "startOffset": 108664,
                     "endColumn": 107,
-                    "endOffset": 108773
+                    "endOffset": 108767
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5114,9 +5114,9 @@
                 "to": {
                     "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 108778,
+                    "startOffset": 108772,
                     "endColumn": 99,
-                    "endOffset": 108873
+                    "endOffset": 108867
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5126,9 +5126,9 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 108878,
+                    "startOffset": 108872,
                     "endColumn": 79,
-                    "endOffset": 108953
+                    "endOffset": 108947
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5138,9 +5138,9 @@
                 "to": {
                     "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 108958,
+                    "startOffset": 108952,
                     "endColumn": 91,
-                    "endOffset": 109045
+                    "endOffset": 109039
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5150,9 +5150,9 @@
                 "to": {
                     "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 109050,
+                    "startOffset": 109044,
                     "endColumn": 97,
-                    "endOffset": 109143
+                    "endOffset": 109137
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5162,10 +5162,10 @@
                 "to": {
                     "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 109148,
+                    "startOffset": 109142,
                     "endLine": 1418,
                     "endColumn": 12,
-                    "endOffset": 109253
+                    "endOffset": 109247
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5175,9 +5175,9 @@
                 "to": {
                     "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 109258,
+                    "startOffset": 109252,
                     "endColumn": 77,
-                    "endOffset": 109331
+                    "endOffset": 109325
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5187,9 +5187,9 @@
                 "to": {
                     "startLine": 1420,
                     "startColumn": 4,
-                    "startOffset": 109336,
+                    "startOffset": 109330,
                     "endColumn": 105,
-                    "endOffset": 109437
+                    "endOffset": 109431
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5199,9 +5199,9 @@
                 "to": {
                     "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 109442,
+                    "startOffset": 109436,
                     "endColumn": 91,
-                    "endOffset": 109529
+                    "endOffset": 109523
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5211,9 +5211,9 @@
                 "to": {
                     "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 109534,
+                    "startOffset": 109528,
                     "endColumn": 103,
-                    "endOffset": 109633
+                    "endOffset": 109627
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5223,9 +5223,9 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 109638,
+                    "startOffset": 109632,
                     "endColumn": 109,
-                    "endOffset": 109743
+                    "endOffset": 109737
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5235,10 +5235,10 @@
                 "to": {
                     "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 109748,
+                    "startOffset": 109742,
                     "endLine": 1425,
                     "endColumn": 12,
-                    "endOffset": 109865
+                    "endOffset": 109859
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5248,10 +5248,10 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 109870,
+                    "startOffset": 109864,
                     "endLine": 1429,
                     "endColumn": 12,
-                    "endOffset": 110028
+                    "endOffset": 110022
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5261,10 +5261,10 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 110033,
+                    "startOffset": 110027,
                     "endLine": 1433,
                     "endColumn": 12,
-                    "endOffset": 110185
+                    "endOffset": 110179
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5274,9 +5274,9 @@
                 "to": {
                     "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 110190,
+                    "startOffset": 110184,
                     "endColumn": 79,
-                    "endOffset": 110265
+                    "endOffset": 110259
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5286,9 +5286,9 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 110270,
+                    "startOffset": 110264,
                     "endColumn": 99,
-                    "endOffset": 110365
+                    "endOffset": 110359
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5298,9 +5298,9 @@
                 "to": {
                     "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 110370,
+                    "startOffset": 110364,
                     "endColumn": 89,
-                    "endOffset": 110455
+                    "endOffset": 110449
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5310,9 +5310,9 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 110460,
+                    "startOffset": 110454,
                     "endColumn": 109,
-                    "endOffset": 110565
+                    "endOffset": 110559
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5322,9 +5322,9 @@
                 "to": {
                     "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 110570,
+                    "startOffset": 110564,
                     "endColumn": 91,
-                    "endOffset": 110657
+                    "endOffset": 110651
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5334,10 +5334,10 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 110662,
+                    "startOffset": 110656,
                     "endLine": 1440,
                     "endColumn": 12,
-                    "endOffset": 110757
+                    "endOffset": 110751
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5347,10 +5347,10 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 110762,
+                    "startOffset": 110756,
                     "endLine": 1442,
                     "endColumn": 12,
-                    "endOffset": 110869
+                    "endOffset": 110863
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5360,10 +5360,10 @@
                 "to": {
                     "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 110874,
+                    "startOffset": 110868,
                     "endLine": 1444,
                     "endColumn": 12,
-                    "endOffset": 110983
+                    "endOffset": 110977
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5373,10 +5373,10 @@
                 "to": {
                     "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 110988,
+                    "startOffset": 110982,
                     "endLine": 1446,
                     "endColumn": 12,
-                    "endOffset": 111099
+                    "endOffset": 111093
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5386,10 +5386,10 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 111104,
+                    "startOffset": 111098,
                     "endLine": 1448,
                     "endColumn": 12,
-                    "endOffset": 111215
+                    "endOffset": 111209
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5399,9 +5399,9 @@
                 "to": {
                     "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 111220,
+                    "startOffset": 111214,
                     "endColumn": 93,
-                    "endOffset": 111309
+                    "endOffset": 111303
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5411,9 +5411,9 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 111314,
+                    "startOffset": 111308,
                     "endColumn": 113,
-                    "endOffset": 111423
+                    "endOffset": 111417
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5423,9 +5423,9 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 111428,
+                    "startOffset": 111422,
                     "endColumn": 111,
-                    "endOffset": 111535
+                    "endOffset": 111529
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5435,10 +5435,10 @@
                 "to": {
                     "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 111540,
+                    "startOffset": 111534,
                     "endLine": 1453,
                     "endColumn": 12,
-                    "endOffset": 111637
+                    "endOffset": 111631
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5448,10 +5448,10 @@
                 "to": {
                     "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 111642,
+                    "startOffset": 111636,
                     "endLine": 1455,
                     "endColumn": 12,
-                    "endOffset": 111757
+                    "endOffset": 111751
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5461,10 +5461,10 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 111762,
+                    "startOffset": 111756,
                     "endLine": 1457,
                     "endColumn": 12,
-                    "endOffset": 111879
+                    "endOffset": 111873
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5474,9 +5474,9 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 111884,
+                    "startOffset": 111878,
                     "endColumn": 81,
-                    "endOffset": 111961
+                    "endOffset": 111955
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5486,9 +5486,9 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 111966,
+                    "startOffset": 111960,
                     "endColumn": 103,
-                    "endOffset": 112065
+                    "endOffset": 112059
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5498,9 +5498,9 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 112070,
+                    "startOffset": 112064,
                     "endColumn": 119,
-                    "endOffset": 112185
+                    "endOffset": 112179
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5510,9 +5510,9 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 112190,
+                    "startOffset": 112184,
                     "endColumn": 125,
-                    "endOffset": 112311
+                    "endOffset": 112305
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5522,9 +5522,9 @@
                 "to": {
                     "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 112316,
+                    "startOffset": 112310,
                     "endColumn": 97,
-                    "endOffset": 112409
+                    "endOffset": 112403
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5534,9 +5534,9 @@
                 "to": {
                     "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 112414,
+                    "startOffset": 112408,
                     "endColumn": 93,
-                    "endOffset": 112503
+                    "endOffset": 112497
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5546,9 +5546,9 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 112508,
+                    "startOffset": 112502,
                     "endColumn": 87,
-                    "endOffset": 112591
+                    "endOffset": 112585
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5558,9 +5558,9 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 112596,
+                    "startOffset": 112590,
                     "endColumn": 111,
-                    "endOffset": 112703
+                    "endOffset": 112697
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5570,9 +5570,9 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 112708,
+                    "startOffset": 112702,
                     "endColumn": 115,
-                    "endOffset": 112819
+                    "endOffset": 112813
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5582,9 +5582,9 @@
                 "to": {
                     "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 112824,
+                    "startOffset": 112818,
                     "endColumn": 121,
-                    "endOffset": 112941
+                    "endOffset": 112935
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5594,9 +5594,9 @@
                 "to": {
                     "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 112946,
+                    "startOffset": 112940,
                     "endColumn": 111,
-                    "endOffset": 113053
+                    "endOffset": 113047
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5606,10 +5606,10 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 113058,
+                    "startOffset": 113052,
                     "endLine": 1471,
                     "endColumn": 12,
-                    "endOffset": 113228
+                    "endOffset": 113222
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5619,9 +5619,9 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 113233,
+                    "startOffset": 113227,
                     "endColumn": 115,
-                    "endOffset": 113344
+                    "endOffset": 113338
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5631,9 +5631,9 @@
                 "to": {
                     "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 113349,
+                    "startOffset": 113343,
                     "endColumn": 85,
-                    "endOffset": 113430
+                    "endOffset": 113424
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5643,9 +5643,9 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 113435,
+                    "startOffset": 113429,
                     "endColumn": 91,
-                    "endOffset": 113522
+                    "endOffset": 113516
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5655,10 +5655,10 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 113527,
+                    "startOffset": 113521,
                     "endLine": 1476,
                     "endColumn": 12,
-                    "endOffset": 113634
+                    "endOffset": 113628
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5668,10 +5668,10 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 113639,
+                    "startOffset": 113633,
                     "endLine": 1478,
                     "endColumn": 12,
-                    "endOffset": 113758
+                    "endOffset": 113752
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5681,9 +5681,9 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 113763,
+                    "startOffset": 113757,
                     "endColumn": 66,
-                    "endOffset": 113825
+                    "endOffset": 113819
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5693,10 +5693,10 @@
                 "to": {
                     "startLine": 1480,
                     "startColumn": 4,
-                    "startOffset": 113830,
+                    "startOffset": 113824,
                     "endLine": 1481,
                     "endColumn": 12,
-                    "endOffset": 113951
+                    "endOffset": 113945
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5706,9 +5706,9 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 113956,
+                    "startOffset": 113950,
                     "endColumn": 67,
-                    "endOffset": 114019
+                    "endOffset": 114013
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5718,10 +5718,10 @@
                 "to": {
                     "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 114024,
+                    "startOffset": 114018,
                     "endLine": 1484,
                     "endColumn": 12,
-                    "endOffset": 114147
+                    "endOffset": 114141
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5731,10 +5731,10 @@
                 "to": {
                     "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 114152,
+                    "startOffset": 114146,
                     "endLine": 1486,
                     "endColumn": 12,
-                    "endOffset": 114291
+                    "endOffset": 114285
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5744,10 +5744,10 @@
                 "to": {
                     "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 114296,
+                    "startOffset": 114290,
                     "endLine": 1488,
                     "endColumn": 12,
-                    "endOffset": 114419
+                    "endOffset": 114413
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5757,9 +5757,9 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 114424,
+                    "startOffset": 114418,
                     "endColumn": 68,
-                    "endOffset": 114488
+                    "endOffset": 114482
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5769,9 +5769,9 @@
                 "to": {
                     "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 114493,
+                    "startOffset": 114487,
                     "endColumn": 94,
-                    "endOffset": 114583
+                    "endOffset": 114577
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5781,9 +5781,9 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 114588,
+                    "startOffset": 114582,
                     "endColumn": 114,
-                    "endOffset": 114698
+                    "endOffset": 114692
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5793,9 +5793,9 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 114703,
+                    "startOffset": 114697,
                     "endColumn": 112,
-                    "endOffset": 114811
+                    "endOffset": 114805
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5805,9 +5805,9 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 114816,
+                    "startOffset": 114810,
                     "endColumn": 98,
-                    "endOffset": 114910
+                    "endOffset": 114904
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5817,9 +5817,9 @@
                 "to": {
                     "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 114915,
+                    "startOffset": 114909,
                     "endColumn": 108,
-                    "endOffset": 115019
+                    "endOffset": 115013
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5829,9 +5829,9 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 115024,
+                    "startOffset": 115018,
                     "endColumn": 110,
-                    "endOffset": 115130
+                    "endOffset": 115124
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5841,9 +5841,9 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 115135,
+                    "startOffset": 115129,
                     "endColumn": 110,
-                    "endOffset": 115241
+                    "endOffset": 115235
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5853,9 +5853,9 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 115246,
+                    "startOffset": 115240,
                     "endColumn": 100,
-                    "endOffset": 115342
+                    "endOffset": 115336
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5865,9 +5865,9 @@
                 "to": {
                     "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 115347,
+                    "startOffset": 115341,
                     "endColumn": 104,
-                    "endOffset": 115447
+                    "endOffset": 115441
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5877,10 +5877,10 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 115452,
+                    "startOffset": 115446,
                     "endLine": 1500,
                     "endColumn": 12,
-                    "endOffset": 115559
+                    "endOffset": 115553
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5890,10 +5890,10 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 115564,
+                    "startOffset": 115558,
                     "endLine": 1502,
                     "endColumn": 12,
-                    "endOffset": 115689
+                    "endOffset": 115683
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5903,9 +5903,9 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 115694,
+                    "startOffset": 115688,
                     "endColumn": 90,
-                    "endOffset": 115780
+                    "endOffset": 115774
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5915,9 +5915,9 @@
                 "to": {
                     "startLine": 1504,
                     "startColumn": 4,
-                    "startOffset": 115785,
+                    "startOffset": 115779,
                     "endColumn": 122,
-                    "endOffset": 115903
+                    "endOffset": 115897
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5927,10 +5927,10 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 115908,
+                    "startOffset": 115902,
                     "endLine": 1506,
                     "endColumn": 12,
-                    "endOffset": 116015
+                    "endOffset": 116009
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5940,9 +5940,9 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 116020,
+                    "startOffset": 116014,
                     "endColumn": 85,
-                    "endOffset": 116101
+                    "endOffset": 116095
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5952,9 +5952,9 @@
                 "to": {
                     "startLine": 1508,
                     "startColumn": 4,
-                    "startOffset": 116106,
+                    "startOffset": 116100,
                     "endColumn": 103,
-                    "endOffset": 116205
+                    "endOffset": 116199
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5964,10 +5964,10 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 116210,
+                    "startOffset": 116204,
                     "endLine": 1510,
                     "endColumn": 12,
-                    "endOffset": 116313
+                    "endOffset": 116307
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5977,10 +5977,10 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 116318,
+                    "startOffset": 116312,
                     "endLine": 1512,
                     "endColumn": 12,
-                    "endOffset": 116413
+                    "endOffset": 116407
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5990,10 +5990,10 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 116418,
+                    "startOffset": 116412,
                     "endLine": 1514,
                     "endColumn": 12,
-                    "endOffset": 116531
+                    "endOffset": 116525
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6003,10 +6003,10 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 116536,
+                    "startOffset": 116530,
                     "endLine": 1516,
                     "endColumn": 12,
-                    "endOffset": 116635
+                    "endOffset": 116629
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6016,10 +6016,10 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 116640,
+                    "startOffset": 116634,
                     "endLine": 1518,
                     "endColumn": 12,
-                    "endOffset": 116739
+                    "endOffset": 116733
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6029,10 +6029,10 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 116744,
+                    "startOffset": 116738,
                     "endLine": 1520,
                     "endColumn": 12,
-                    "endOffset": 116865
+                    "endOffset": 116859
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6042,9 +6042,9 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 116870,
+                    "startOffset": 116864,
                     "endColumn": 87,
-                    "endOffset": 116953
+                    "endOffset": 116947
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6054,9 +6054,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 116958,
+                    "startOffset": 116952,
                     "endColumn": 107,
-                    "endOffset": 117061
+                    "endOffset": 117055
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6066,9 +6066,9 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 117066,
+                    "startOffset": 117060,
                     "endColumn": 99,
-                    "endOffset": 117161
+                    "endOffset": 117155
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6078,9 +6078,9 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 117166,
+                    "startOffset": 117160,
                     "endColumn": 89,
-                    "endOffset": 117251
+                    "endOffset": 117245
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6090,9 +6090,9 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 117256,
+                    "startOffset": 117250,
                     "endColumn": 109,
-                    "endOffset": 117361
+                    "endOffset": 117355
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6102,9 +6102,9 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 117366,
+                    "startOffset": 117360,
                     "endColumn": 83,
-                    "endOffset": 117445
+                    "endOffset": 117439
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6114,9 +6114,9 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 117450,
+                    "startOffset": 117444,
                     "endColumn": 83,
-                    "endOffset": 117529
+                    "endOffset": 117523
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6126,9 +6126,9 @@
                 "to": {
                     "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 117534,
+                    "startOffset": 117528,
                     "endColumn": 53,
-                    "endOffset": 117583
+                    "endOffset": 117577
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6138,9 +6138,9 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 117588,
+                    "startOffset": 117582,
                     "endColumn": 63,
-                    "endOffset": 117647
+                    "endOffset": 117641
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6150,9 +6150,9 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 117652,
+                    "startOffset": 117646,
                     "endColumn": 105,
-                    "endOffset": 117753
+                    "endOffset": 117747
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6162,9 +6162,9 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 117758,
+                    "startOffset": 117752,
                     "endColumn": 109,
-                    "endOffset": 117863
+                    "endOffset": 117857
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6174,9 +6174,9 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 117868,
+                    "startOffset": 117862,
                     "endColumn": 83,
-                    "endOffset": 117947
+                    "endOffset": 117941
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6186,9 +6186,9 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 117952,
+                    "startOffset": 117946,
                     "endColumn": 119,
-                    "endOffset": 118067
+                    "endOffset": 118061
                 },
                 "from": {
                     "file": "G:\\BWAF\\Blue--White-AF\\BWAF\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"

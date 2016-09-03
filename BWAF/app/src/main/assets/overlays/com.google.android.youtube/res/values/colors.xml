@@ -1,0 +1,45 @@
+﻿<resources>
+    <color name="theme_main_color_primary">#ff0288D1</color>
+    <color name="theme_main_color_primary_dark">#ff0277BD</color>
+    <color name="abc_search_url_text_normal">#ff4A9F7A</color>
+    <color name="common_signin_btn_default_background">#ffdd4b39</color>
+    <color name="highlighted_text_material_dark">#664a7f9f</color>
+    <color name="highlighted_text_material_light">#664a7f9f</color>
+    <color name="material_deep_teal_200">#ff4a7f9f</color>
+    <color name="material_deep_teal_500">#ff3a657e</color>
+    <color name="app_bar_primary_background">#ff0288D1</color>
+    <color name="color_primary">#ff0288D1</color>
+    <color name="viewfinder_laser">#ff0288D1</color>
+    <color name="account_switcher_color_primary">#ff0288D1</color>
+    <color name="phone_number_verification_red">#ff0288D1</color>
+    <color name="upload_edit_video_tutorial_background">#0288D1</color>
+    <color name="upload_edit_video_tutorial_border">#ff01579B</color>
+    <color name="red">#ff0288D1</color>
+    <color name="remote_queue_time_bar">#0288D1</color>
+    <color name="startup_promo_activity_pagination_cursor_color">#ff0288D1</color>
+    <color name="q_subscribe_button_subscribe_font_color">#0288D1</color>
+    <color name="pause_and_buffer_notification_color">#ff0288D1</color>
+    <color name="youtube_blue_light">#ff4a7f9f</color>
+    <color name="share_panel_action_button_enabled_color">#ff4a7f9f</color>
+    <color name="share_panel_selected_color">#ff3a657e</color>
+    <color name="share_panel_warning_text_color">#ff0288D1</color>
+    <color name="share_panel_identity_confirmation_confirm_button">#ff4a7f9f</color>
+    <color name="conversation_invite_action_button">#ff4a7f9f</color>
+    <color name="ics_blue_glow">#ff4a7f9f</color>
+    <color name="color_brand_primary">#ff0288D1</color>
+    <color name="color_brand_primary_alternate">#ff4a7f9f</color>
+    <color name="quantum_blue">#ff4a7f9f</color>
+    <color name="callout_drawable_background_color">#ff3a657e</color>
+    <color name="submit_background">#ff4a7f9f</color>
+    <color name="submit_pressed_background">#ff3a657e</color>
+    <color name="info_card_link_color">#ff4a7f9f</color>
+    <color name="playlist_channel_clickable_text_color">#ff4a7f9f</color>
+    <color name="offline_active_text_color">#ff4a7f9f</color>
+    <color name="music_key_post_purchase_pagination_cursor_color">#ff0288D1</color>
+    <color name="music_badge_background">#ff4a7f9f</color>
+    <color name="subscribe_button_subscribe_font_color">#ff0288D1</color>
+    <color name="subscribe_button_paid_subscribe_font_color">#ff4a7f9f</color>
+    <color name="info_card_poll_result_bar">#ff4a7f9f</color>
+    <color name="playlist_thumbnail_inner_border_color">#ff4a7f9f</color>
+</resources>
+    
