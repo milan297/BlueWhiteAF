@@ -4,7 +4,7 @@
     api-level="24"
     density="560dpi"
     format="7"
-    timestamp="10942442232652"
+    timestamp="20621032329413"
     token="-4186677585456017448" >
 
     <task
@@ -15,16 +15,16 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="47" />
+        duration="0" />
     <task
         name="verifier"
-        duration="25" />
+        duration="0" />
 
     <artifact
         location="G:\BWAF\Blue--White-AF\BWAF\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="10942442232652" >
+    <build timestamp="20621032329413" >
         <artifact
             location="G:\BWAF\Blue--White-AF\BWAF\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
