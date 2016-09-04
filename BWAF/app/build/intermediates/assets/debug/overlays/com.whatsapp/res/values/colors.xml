@@ -11,4 +11,7 @@
     <color name="material_deep_teal_500">#03A9F4</color>
 	<color name="action_mode">#0288D1</color>
 	<color name="section_text">#0288D1</color>
+	<color name="action_mode_dark">#ff0277BD</color>
+	<color name="media_message_progress_determinate">#ff0288D1</color>
+	<color name="composing">#ff0288D1</color>
 </resources>

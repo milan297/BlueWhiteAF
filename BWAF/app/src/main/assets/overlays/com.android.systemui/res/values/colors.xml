@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="system_primary_color">#FFFFFF</color>
-    <color name="system_secondary_color">#ff37474f</color>
+    <color name="system_secondary_color">#ff0288D1</color>
     <color name="qs_tile_text">#ff0288D1</color>
     <color name="qs_tile_divider">#200288D1</color>
     <color name="segmented_button_selected">#de0288D1</color>
@@ -25,4 +25,8 @@
     <color name="qs_detail_button">#4a7f9f</color>
     <color name="qs_detail_progress_track">#3a657e</color>
     <color name="volume_slider_inactive">#ff0288D1</color>
+    <color name="lb_basic_card_info_bg_color">#0277BD</color>
+    <color name="lb_default_brand_color">#0277BD</color>
+    <color name="material_blue_grey_800">#0277BD</color>
+    <color name="switch_bar_background">#0277BD</color>
 </resources>

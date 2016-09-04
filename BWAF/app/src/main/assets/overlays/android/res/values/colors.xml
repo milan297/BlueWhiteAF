@@ -1,4 +1,4 @@
-<resources>
+﻿<resources>
     <color name="highlighted_text_dark">#0288D1</color>
     <color name="highlighted_text_light">#0288D1</color>
     <color name="link_text_dark">#ff0288D1</color>
@@ -15,7 +15,7 @@
     <color name="keyguard_avatar_frame_pressed_color">#ff0288D1</color>
     <color name="accessibility_focus_highlight">#bf4a9f7a</color>
     <color name="system_notification_accent_color">#ff607d8b</color>
-    <color name="battery_saver_mode_color">#ffe06055</color>
+    <color name="battery_saver_mode_color">#ff0288D1</color>
     <color name="user_icon_1">#ff0288D1</color>
     <color name="user_icon_2">#ff0277BD</color>
     <color name="user_icon_3">#ff0288D1</color>
@@ -54,8 +54,8 @@
     <color name="datepicker_default_pressed_text_color_material_dark">#ff3e5c84</color>
     <color name="material_blue_grey_800">#0288D1</color>
     <color name="material_blue_grey_900">#0277BD</color>
-    <color name="material_blue_grey_950">#355c73</color>
-    <color name="background_floating_material_dark">#ff37474f</color>
+    <color name="material_blue_grey_950">#01579B</color>
+    <color name="background_floating_material_dark">#ff0288D1</color>
     <color name="button_material_light">#ffcfd8dc</color>
     <color name="global_menu_icon">#ff263238</color>
     <color name="global_menu_icon_enabled">#ff0288D1</color>
