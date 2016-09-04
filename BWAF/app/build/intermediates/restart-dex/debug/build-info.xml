@@ -4,7 +4,7 @@
     api-level="24"
     density="560dpi"
     format="7"
-    timestamp="157672360197336"
+    timestamp="159429358640542"
     token="-4186677585456017448" >
 
     <task
@@ -24,7 +24,7 @@
         location="G:\BWAF\Blue--White-AF\BWAF\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="157672360197336" >
+    <build timestamp="159429358640542" >
         <artifact
             location="G:\BWAF\Blue--White-AF\BWAF\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
