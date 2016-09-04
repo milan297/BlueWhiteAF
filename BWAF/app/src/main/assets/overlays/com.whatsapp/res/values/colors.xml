@@ -14,4 +14,5 @@
 	<color name="action_mode_dark">#ff0277BD</color>
 	<color name="media_message_progress_determinate">#ff0288D1</color>
 	<color name="composing">#ff0288D1</color>
+	<color name="btn_green_normal">#ff0288D1</color>
 </resources>
