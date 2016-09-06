@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="swipe_refresh_color1" id="0x7f020000" />
+    <public type="color" name="swipe_refresh_color2" id="0x7f020001" />
+    <public type="color" name="swipe_refresh_color3" id="0x7f020002" />
+    <public type="color" name="swipe_refresh_color4" id="0x7f020003" />
+    <public type="color" name="statusbar_orange" id="0x7f020004" />
+    <public type="color" name="red_focused" id="0x7f020005" />
+    <public type="color" name="badge_background_color" id="0x7f020006" />
+    <public type="color" name="ripple_material_dark" id="0x7f020007" />
+    <public type="color" name="ripple_material_light" id="0x7f020008" />
+    <public type="color" name="ampm_text_color" id="0x7f020009" />
+    <public type="color" name="calendar_header" id="0x7f02000a" />
+    <public type="color" name="quantum_deeporange500" id="0x7f02000b" />
+    <public type="color" name="quantum_deeporange700" id="0x7f02000c" />
+    <public type="color" name="quantum_deeporangeA200" id="0x7f02000d" />
+    <public type="color" name="quantum_deeppurple300" id="0x7f02000e" />
+    <public type="color" name="quantum_deeppurpleA100" id="0x7f02000f" />
+    <public type="color" name="quantum_googblue400" id="0x7f020010" />
+    <public type="color" name="quantum_googblue500" id="0x7f020011" />
+    <public type="color" name="quantum_googred400" id="0x7f020012" />
+    <public type="color" name="quantum_googred500" id="0x7f020013" />
+    <public type="color" name="quantum_googred800" id="0x7f020014" />
+    <public type="color" name="quantum_lightgreen400" id="0x7f020015" />
+    <public type="color" name="quantum_googgreen500" id="0x7f020016" />
+    <public type="color" name="quantum_googgreenA700" id="0x7f020017" />
+    <public type="color" name="quantum_indigo900" id="0x7f020018" />
+    <public type="color" name="quantum_indigoA100" id="0x7f020019" />
+    <public type="color" name="quantum_yellow700" id="0x7f02001a" />
+    <public type="color" name="quantum_yellow800" id="0x7f02001b" />
+    <public type="color" name="text_color_undo" id="0x7f02001c" />
+    <public type="color" name="holo_blue_dark" id="0x7f02001d" />
+    <public type="color" name="holo_blue_light" id="0x7f02001e" />
+    <public type="color" name="notification_template_icon_low_bg" id="0x7f02001f" />
+    <public type="color" name="teaser_main_text" id="0x7f020020" />
+    <public type="color" name="material_deep_teal_200" id="0x7f020021" />
+    <public type="color" name="material_deep_teal_500" id="0x7f020022" />
+    <public type="color" name="material_blue_grey_800" id="0x7f020023" />
+    <public type="color" name="material_blue_grey_900" id="0x7f020024" />
+    <public type="color" name="material_blue_grey_950" id="0x7f020025" />
+</resources>

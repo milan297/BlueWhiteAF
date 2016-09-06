@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_color">#ff0288D1</color>
+    <color name="action_bar_text_color">#ffffffff</color>
+    <color name="action_bar_background_color">#ff0288D1</color>
+    <color name="active_action_bar_background_color">#ff039BE5</color>
+    <color name="browse_secondary_status_bar_color">#ff0288D1</color>
+    <color name="sliding_drawer_background_color">#ffffff</color>
+    <color name="drawer_selected_color">#b34FC3F7</color>
+    <color name="drawer_divider_color">#FFFAFAFA</color>
+    <color name="sliding_drawer_text_color">#fff1f1f1</color>
+    <color name="default_background_color">#fff1f1f1</color>
+    <color name="widget_message_text_color">#ff03A9F4</color>
+    <color name="image_placeholder_background">#fff1f1f1</color>
+    <color name="filter_bar_background_color">#fff1f1f1</color>
+    <color name="note_default_color">#fff1f1f1</color>
+    <color name="primary_color">#ff039BE5</color>
+    <color name="primary_material_dark">#ff0288D1</color>
+    <color name="primary_material_light">#ff039BE5</color>
+    <color name="primary_dark_material_dark">#ff0288D1</color>
+    <color name="primary_dark_material_light">#ff0288D1</color>
+    <color name="primary_color_dark">#ff0288D1</color>
+    <color name="default_account_details_color">#fff1f1f1</color>
+    <color name="manage_accounts_text_color">#fff1f1f1</color>
+    <color name="add_accounts_text_color">#fff1f1f1</color>
+    <color name="account_text_color">#fff1f1f1</color>
+</resources>

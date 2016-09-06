@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="accent_material_dark" id="0x7f020000" />
+    <public type="color" name="accent_material_light" id="0x7f020001" />
+    <public type="color" name="app_accent" id="0x7f020002" />
+    <public type="color" name="app_primary" id="0x7f020003" />
+    <public type="color" name="app_primary_dark" id="0x7f020004" />
+    <public type="color" name="common_action_bar_splitter" id="0x7f020005" />
+    <public type="color" name="dark_green" id="0x7f020006" />
+    <public type="color" name="highlighted_text_material_dark" id="0x7f020007" />
+    <public type="color" name="highlighted_text_material_light" id="0x7f020008" />
+    <public type="color" name="indigo" id="0x7f020009" />
+    <public type="color" name="indigo20" id="0x7f02000a" />
+    <public type="color" name="light_blue" id="0x7f02000b" />
+    <public type="color" name="light_green" id="0x7f02000c" />
+    <public type="color" name="link_text_material_dark" id="0x7f02000d" />
+    <public type="color" name="link_text_material_light" id="0x7f02000e" />
+    <public type="color" name="material_blue_500" id="0x7f02000f" />
+    <public type="color" name="material_blue_600" id="0x7f020010" />
+    <public type="color" name="material_blue_grey_800" id="0x7f020011" />
+    <public type="color" name="material_blue_grey_900" id="0x7f020012" />
+    <public type="color" name="material_blue_grey_950" id="0x7f020013" />
+    <public type="color" name="material_deep_teal_200" id="0x7f020014" />
+    <public type="color" name="material_deep_teal_500" id="0x7f020015" />
+    <public type="color" name="mid_green" id="0x7f020016" />
+    <public type="color" name="primary_dark_material_dark" id="0x7f020017" />
+    <public type="color" name="primary_dark_material_light" id="0x7f020018" />
+    <public type="color" name="primary_material_dark" id="0x7f020019" />
+    <public type="color" name="primary_material_light" id="0x7f02001a" />
+    <public type="color" name="red" id="0x7f02001b" />
+    <public type="color" name="ripple_material_dark" id="0x7f02001c" />
+    <public type="color" name="ripple_material_light" id="0x7f02001d" />
+    <public type="color" name="slightly_darker_green" id="0x7f02001e" />
+    <public type="color" name="state_activated" id="0x7f02001f" />
+    <public type="color" name="teal" id="0x7f020020" />
+    <public type="color" name="tint_divider" id="0x7f020021" />
+    <public type="color" name="tint_solid_divider" id="0x7f020022" />
+</resources>

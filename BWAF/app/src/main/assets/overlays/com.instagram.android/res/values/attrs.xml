@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <!--<attr name="backgroundColorPrimary" format="color" />
+    <attr name="backgroundColorPrimaryDark" format="color" />
+    <attr name="checkedDrawable" format="reference" />
+    <attr name="thumbDrawable" format="reference" />
+    <attr name="uncheckedDrawable" format="reference" />
+    <attr name="defaultSpinnerStyle" format="reference" />
+    <attr name="glyphColorPrimary" format="color" />-->
+   <attr name="backgroundColorPrimary" format="color" />
+   <attr name="backgroundColorPrimaryDark" format="color" />
+   <attr name="backgroundColorHighlight" format="color" />
+   <attr name="backgroundColorHighlightPressed" format="color" />
+   <attr name="checkedDrawable" format="reference" />
+   <attr name="igSwitchStyle" format="reference" />
+   <attr name="thumbDrawable" format="reference" />
+   <attr name="uncheckedDrawable" format="reference" />
+   <attr name="defaultSpinnerStyle" format="reference" />
+   <attr name="glyphColorPrimary" format="color" />
+   <attr name="glyphColorSecondary" format="color" />
+   <attr name="glyphColorSecondaryActive" format="color" />
+   <attr name="textColorBoldLink" format="color" />
+   <attr name="textColorRegularLink" format="color" />
+   <attr name="textColorHyperlink" format="color" />
+   <attr name="textColorPrimary" format="color" />
+   <attr name="textColorSecondary" format="color" />
+   <attr name="textColorTertiary" format="color" />
+   <attr name="textColorQuaternary" format="color" />
+   <attr name="capitalize" format="boolean" />
+</resources>
