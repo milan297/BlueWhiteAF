@@ -17,7 +17,7 @@
     <color name="primary_color">#ff039BE5</color>
     <color name="primary_material_dark">#ff0288D1</color>
     <color name="primary_material_light">#ff039BE5</color>
-    <color name="primary_dark_material_dark">#ff0288D1</color>
+    <color name="primary_dark_material_dark">#0288D1</color>
     <color name="primary_dark_material_light">#ff0288D1</color>
     <color name="primary_color_dark">#ff0288D1</color>
     <color name="default_account_details_color">#fff1f1f1</color>
