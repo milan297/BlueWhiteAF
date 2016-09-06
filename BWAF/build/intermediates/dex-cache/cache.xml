@@ -2,11 +2,67 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\oskar\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_0c3da4f5fe8ea447829a60bd90ae6e8e49358467\classes.dex" />
+    </item>
+    <item
+        jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_3cc2af9a06d35a1a21566bfe4bbbf0d03a18a649\classes.dex" />
+    </item>
+    <item
+        jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_71cc70b51889ac6747eff5ef381bfcc6f0fe1454\classes.dex" />
+    </item>
+    <item
+        jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_9a831c0e1256c220ecaff836b333d09b707f1f41\classes.dex" />
+    </item>
+    <item
         jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="3ae2db309a87e4bdc3169625ecffdc875d676c0c">
+        sha1="f0f1af4bbaf68e2af70aff553ac2c4d890aec049">
         <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a971b6f91862174fbe616cfd56b1b1851573f070\classes.dex" />
+    </item>
+    <item
+        jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_85aff9585ccc0a269db021d93b69b5feaf553614\classes.dex" />
+    </item>
+    <item
+        jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.github.javiersantos\PiracyChecker\0.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2ca04c957e281df3b532b056ddb272741a623106">
+        <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.javiersantos-PiracyChecker-0.0.2_dd16a0307005c227d49919ef212bf34f8c70608a\classes.dex" />
+    </item>
+    <item
+        jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="950887f2c4cf145470c3c0380d350dc5f0434321">
+        <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_72ae97d5f769ff7a5c291e7fa2de696e4176cb54\classes.dex" />
+    </item>
+    <item
+        jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_8f9112abc2c80db74e4d605b1893348cede21f26\classes.dex" />
     </item>
 
 </items>
