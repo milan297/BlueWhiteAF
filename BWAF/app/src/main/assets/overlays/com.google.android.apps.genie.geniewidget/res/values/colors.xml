@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="text_color_link_light">#ff03A9F4</color>
+    <color name="text_color_link_dark">#ff03A9F4</color>
+	<color name="material_grey_100">#ff0288D1</color>
+	<color name="background_color_light">#ff0288D1</color>
+	<color name="swipe_refresh_color1">#ff039BE5</color>
+    <color name="swipe_refresh_color2">#ff0288D1</color>
+    <color name="swipe_refresh_color3">#ff0277BD</color>
+    <color name="swipe_refresh_color4">#ff01579B</color>
+	<color name="primary_dark_color_light">#ff0277BD</color>
+</resources>

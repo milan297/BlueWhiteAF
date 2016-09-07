@@ -9,8 +9,403 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa3b38e8-d27d-45b4-bb50-8efe5c606358" name="Default" comment="">
+    <list default="true" id="fa3b38e8-d27d-45b4-bb50-8efe5c606358" name="Default" comment="First play store release; added a few apps.">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/substratum/theme/template/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/substratum/theme/template/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/substratum/theme/template/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/substratum/theme/template/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/classes.zip" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/classes.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/resources.zip" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/resources.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/substratum/theme/template/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/substratum/theme/template/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/substratum/theme/template/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/substratum/theme/template/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/substratum/theme/template/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/substratum/theme/template/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable-v21/ic_brightness_thumb.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable-v21/ic_brightness_thumb.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable-xhdpi-v4/header_dot.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable-xhdpi-v4/header_dot.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable-xxhdpi-v4/header_dot.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable-xxhdpi-v4/header_dot.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable-xxxhdpi-v4/header_dot.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable-xxxhdpi-v4/header_dot.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/header_dot.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/header_dot.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_brightness_thumb.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_brightness_thumb.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_data_saver.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_data_saver.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_data_saver_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_data_saver_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_dnd.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_dnd.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_dnd_disable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_dnd_disable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_dnd_total_silence.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_dnd_total_silence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_dnd_total_silence_disable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_dnd_total_silence_disable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_hotspot_disable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_hotspot_disable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_hotspot_enable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_hotspot_enable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_invert_colors_disable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_invert_colors_disable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_invert_colors_enable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_invert_colors_enable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_landscape_from_auto_rotate.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_landscape_from_auto_rotate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_landscape_to_auto_rotate.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_landscape_to_auto_rotate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_livedisplay_auto.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_livedisplay_auto.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_livedisplay_day.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_livedisplay_day.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_livedisplay_night.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_livedisplay_night.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_livedisplay_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_livedisplay_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_livedisplay_outdoor.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_livedisplay_outdoor.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_night_mode.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_night_mode.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_night_mode_disabled.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_night_mode_disabled.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_notification_audible.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_notification_audible.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_person.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_person.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_portrait_from_auto_rotate.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_portrait_from_auto_rotate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_portrait_to_auto_rotate.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_portrait_to_auto_rotate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_airplane_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_airplane_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_airplane_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_airplane_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_alarm_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_alarm_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_back.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_back.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_battery_saver_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_battery_saver_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_battery_saver_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_battery_saver_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_batterysaver_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_batterysaver_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_batterysaver_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_batterysaver_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_connected.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_connected.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_connecting.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_connecting.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_brightness_auto_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_brightness_auto_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_brightness_auto_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_brightness_auto_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_cancel.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_cancel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_cast_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_cast_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_cast_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_cast_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_certificate_info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_certificate_info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_compass_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_compass_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_compass_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_compass_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_data_disabled.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_data_disabled.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_dnd_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_dnd_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_dnd_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_dnd_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_dnd_on_total_silence.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_dnd_on_total_silence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_expanded_desktop.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_expanded_desktop.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_expanded_desktop_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_expanded_desktop_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_flashlight_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_flashlight_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_flashlight_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_flashlight_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_gps_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_gps_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_gps_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_gps_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_heads_up_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_heads_up_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_heads_up_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_heads_up_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_hotspot_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_hotspot_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_hotspot_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_hotspot_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_ime.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_ime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_inversion_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_inversion_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_inversion_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_inversion_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_location_battery_saving.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_location_battery_saving.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_location_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_location_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_location_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_location_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_lock_screen_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_lock_screen_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_lock_screen_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_lock_screen_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_lte_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_lte_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_lte_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_lte_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_media_pause.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_media_pause.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_media_play.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_media_play.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_minus.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_minus.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_network_adb_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_network_adb_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_network_adb_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_network_adb_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_networkmode_2g.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_networkmode_2g.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_networkmode_3g.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_networkmode_3g.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_networkmode_lte.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_networkmode_lte.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_nfc_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_nfc_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_nfc_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_nfc_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_no_sim.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_no_sim.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_perf_profile_vector.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_perf_profile_vector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_plus.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_plus.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_power.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_power.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_ringer_audible.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_ringer_audible.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_ringer_none.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_ringer_none.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_ringer_priority.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_ringer_priority.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_ringer_silent.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_ringer_silent.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_ringer_vibrate.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_ringer_vibrate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_01.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_01.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_02.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_02.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_03.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_03.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_04.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_04.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_05.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_05.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_06.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_06.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_07.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_07.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_08.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_08.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_09.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_09.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_10.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_10.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_11.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_11.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_12.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_12.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_13.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_14.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_14.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_15.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_15.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_landscape.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_landscape.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_locked.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_locked.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_portrait.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_portrait.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_unlocked.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_rotation_unlocked.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_screen_timeout_vector.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_screen_timeout_vector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_screenrecord.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_screenrecord.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_screenshot.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_screenshot.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_settings.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_0.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_1.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_1x.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_1x.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_2.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_3.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_3g.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_3g.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_4.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_4g.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_4g.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_disabled.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_disabled.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_e.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_e.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_0.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_1.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_2.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_3.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_4.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_g.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_g.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_h.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_h.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_hp.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_hp.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_in.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_lte.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_lte.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_no_signal.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_no_signal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_out.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_r.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_signal_r.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_stats.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_stats.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_stimeout_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_stimeout_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_stimeout_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_stimeout_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_sync_off.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_sync_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_sync_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_sync_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_system_profiles.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_system_profiles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_usb_device.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_usb_device.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_visualizer_static.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_visualizer_static.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_volume.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_volume.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_volume_panel.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_volume_panel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_vpn.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_vpn.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_0.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_1.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_2.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_3.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_4.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_disabled.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_disabled.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_disconnected.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_disconnected.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_0.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_1.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_2.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_3.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_4.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_no_network.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_wifi_no_network.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_zen_important.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_zen_important.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_zen_on.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_qs_zen_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_settings.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_signal_airplane_disable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_signal_airplane_disable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_signal_airplane_enable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_signal_airplane_enable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_signal_flashlight_disable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_signal_flashlight_disable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_signal_flashlight_enable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_signal_flashlight_enable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_signal_location_disable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_signal_location_disable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_signal_location_enable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_signal_location_enable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_volume_collapse.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_volume_collapse.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_volume_expand.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/ic_volume_expand.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/major_a_b.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/major_a_b.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/major_b_a.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/major_b_a.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/major_b_c.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/major_b_c.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/major_c_b.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/major_c_b.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/minor_a_b.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/minor_a_b.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/minor_b_a.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/minor_b_a.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/minor_b_c.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/minor_b_c.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/minor_c_b.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/drawable/minor_c_b.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.android.systemui/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.spotify.music/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.spotify.music/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.whatsapp/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/overlays/com.whatsapp/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifest.crc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/reload-changes.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/reload-changes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable-v21/ic_brightness_thumb.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable-v21/ic_brightness_thumb.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable-xhdpi-v4/header_dot.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable-xhdpi-v4/header_dot.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable-xxhdpi-v4/header_dot.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable-xxhdpi-v4/header_dot.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable-xxxhdpi-v4/header_dot.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable-xxxhdpi-v4/header_dot.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/header_dot.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/header_dot.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_brightness_thumb.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_brightness_thumb.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_data_saver.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_data_saver.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_data_saver_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_data_saver_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_dnd.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_dnd.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_dnd_disable.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_dnd_disable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_dnd_total_silence.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_dnd_total_silence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_dnd_total_silence_disable.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_dnd_total_silence_disable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_hotspot_disable.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_hotspot_disable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_hotspot_enable.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_hotspot_enable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_invert_colors_disable.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_invert_colors_disable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_invert_colors_enable.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_invert_colors_enable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_landscape_from_auto_rotate.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_landscape_from_auto_rotate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_landscape_to_auto_rotate.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_landscape_to_auto_rotate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_livedisplay_auto.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_livedisplay_auto.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_livedisplay_day.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_livedisplay_day.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_livedisplay_night.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_livedisplay_night.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_livedisplay_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_livedisplay_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_livedisplay_outdoor.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_livedisplay_outdoor.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_night_mode.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_night_mode.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_night_mode_disabled.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_night_mode_disabled.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_notification_audible.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_notification_audible.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_person.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_person.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_portrait_from_auto_rotate.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_portrait_from_auto_rotate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_portrait_to_auto_rotate.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_portrait_to_auto_rotate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_airplane_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_airplane_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_airplane_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_airplane_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_alarm_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_alarm_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_back.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_back.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_battery_saver_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_battery_saver_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_battery_saver_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_battery_saver_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_batterysaver_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_batterysaver_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_batterysaver_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_batterysaver_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_connected.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_connected.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_connecting.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_connecting.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_bluetooth_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_brightness_auto_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_brightness_auto_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_brightness_auto_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_brightness_auto_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_cancel.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_cancel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_cast_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_cast_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_cast_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_cast_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_certificate_info.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_certificate_info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_compass_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_compass_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_compass_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_compass_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_data_disabled.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_data_disabled.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_dnd_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_dnd_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_dnd_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_dnd_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_dnd_on_total_silence.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_dnd_on_total_silence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_expanded_desktop.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_expanded_desktop.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_expanded_desktop_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_expanded_desktop_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_flashlight_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_flashlight_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_flashlight_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_flashlight_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_gps_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_gps_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_gps_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_gps_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_heads_up_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_heads_up_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_heads_up_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_heads_up_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_hotspot_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_hotspot_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_hotspot_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_hotspot_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_ime.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_ime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_inversion_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_inversion_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_inversion_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_inversion_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_location_battery_saving.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_location_battery_saving.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_location_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_location_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_location_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_location_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_lock_screen_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_lock_screen_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_lock_screen_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_lock_screen_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_lte_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_lte_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_lte_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_lte_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_media_pause.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_media_pause.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_media_play.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_media_play.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_minus.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_minus.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_network_adb_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_network_adb_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_network_adb_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_network_adb_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_networkmode_2g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_networkmode_2g.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_networkmode_3g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_networkmode_3g.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_networkmode_lte.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_networkmode_lte.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_nfc_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_nfc_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_nfc_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_nfc_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_no_sim.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_no_sim.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_perf_profile_vector.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_perf_profile_vector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_plus.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_plus.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_power.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_power.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_ringer_audible.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_ringer_audible.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_ringer_none.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_ringer_none.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_ringer_priority.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_ringer_priority.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_ringer_silent.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_ringer_silent.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_ringer_vibrate.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_ringer_vibrate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_01.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_01.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_02.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_02.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_03.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_03.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_04.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_04.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_05.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_05.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_06.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_06.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_07.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_07.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_08.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_08.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_09.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_09.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_10.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_10.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_11.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_11.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_12.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_12.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_13.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_14.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_14.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_15.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_15.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_landscape.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_landscape.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_locked.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_locked.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_portrait.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_portrait.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_unlocked.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_rotation_unlocked.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_screen_timeout_vector.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_screen_timeout_vector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_screenrecord.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_screenrecord.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_screenshot.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_screenshot.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_settings.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_0.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_1.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_1x.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_1x.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_2.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_3g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_3g.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_4.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_4g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_4g.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_disabled.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_disabled.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_e.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_e.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_0.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_1.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_2.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_4.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_full_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_g.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_h.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_h.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_hp.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_hp.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_in.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_lte.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_lte.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_no_signal.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_no_signal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_out.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_r.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_signal_r.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_stats.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_stats.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_stimeout_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_stimeout_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_stimeout_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_stimeout_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_2.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_disabled.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_disabled.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_disconnected.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_disconnected.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_0.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_1.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_2.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_4.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_full_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_no_network.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_wifi_no_network.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_zen_important.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_zen_important.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_zen_on.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_qs_zen_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_settings.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_signal_airplane_enable.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_signal_airplane_enable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_signal_flashlight_disable.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_signal_flashlight_disable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_signal_flashlight_enable.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_signal_flashlight_enable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_signal_location_enable.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_signal_location_enable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_volume_collapse.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_volume_collapse.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_volume_expand.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_volume_expand.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/major_b_a.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/major_b_a.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/major_b_c.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/major_b_c.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/major_c_b.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/major_c_b.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/minor_b_a.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/minor_b_a.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/minor_b_c.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/minor_b_c.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/minor_c_b.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/minor_c_b.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.google.android.gm/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.google.android.gm/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.google.android.gm/res/values/public.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.google.android.gm/res/values/public.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.google.android.keep/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.google.android.keep/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.google.android.youtube/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.google.android.youtube/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.google.android.youtube/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.google.android.youtube/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.instagram.android/res/values-v21/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.instagram.android/res/values-v21/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.instagram.android/res/values-v23/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.instagram.android/res/values-v23/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.instagram.android/res/values/attrs.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.instagram.android/res/values/attrs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.instagram.android/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.instagram.android/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.pushbullet.android/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.pushbullet.android/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.pushbullet.android/res/values/public.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.pushbullet.android/res/values/public.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.spotify.music/res/values-v21/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.spotify.music/res/values-v21/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.spotify.music/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.spotify.music/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.whatsapp/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.whatsapp/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="BWAF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,27 +429,37 @@
       <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.whatsapp/res/values/colors.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-11.115385">
               <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.android.chrome/res/values/colors.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state vertical-scroll-proportion="-3.2692308">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.84911245">
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.google.android.keep/res/values/colors.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.70615387">
+            <state vertical-scroll-proportion="0.0">
               <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
@@ -62,6 +467,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\oskar\Documents\BWAF KEY\BWAF KEYYYY.jks" />
+    <option name="KEY_ALIAS" value="BlueWhiteAF Key" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -1408,7 +1818,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4418831382879" />
+        <entry key="$PROJECT_DIR$" value="4418980228692" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1689,10 +2099,11 @@
         <option value="$PROJECT_DIR$/app/src/main/assets/overlays/com.snapchat.android/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/assets/overlays/android/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/assets/overlays/com.whatsapp/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/assets/overlays/com.spotify.music/res/values-v21/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/assets/overlays/com.pushbullet.android/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/assets/overlays/com.google.android.keep/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/assets/overlays/com.whatsapp/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.chrome/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
@@ -1714,7 +2125,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -1729,36 +2140,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BWAF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BWAF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BWAF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1812,32 +2193,166 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="overlays" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="BWAF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BWAF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
+              <option name="myItemId" value="BWAF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="BWAF" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BWAF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BWAF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BWAF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BWAF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BWAF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="overlays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BWAF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BWAF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="overlays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BWAF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BWAF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1862,6 +2377,9 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="695" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="ExportApk.ApkPath" value="G:\BWAF\Blue--White-AF\BWAF\app" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.BuildType" value="release" />
   </component>
   <component name="Push.Settings">
     <force-push-targets>
@@ -2305,13 +2823,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.pushbullet.android/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.spotify.music/res/values-v21/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2558,7 +3069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2580,7 +3090,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2634,14 +3143,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.whatsapp/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.pushbullet.android/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6318235">
@@ -2656,18 +3157,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.google.android.keep/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.google.android.keep/res/values/colors.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.whatsapp/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70615387">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state vertical-scroll-proportion="-11.115385">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.android.chrome/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84911245">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
       </provider>
