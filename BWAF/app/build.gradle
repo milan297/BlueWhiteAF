@@ -8,8 +8,8 @@ android {
         applicationId "com.vaaski.bwaf"
         minSdkVersion 23
         targetSdkVersion 24
-        versionCode 10
-        versionName "pre- release"
+        versionCode 16
+        versionName "alpha release"
     }
     buildTypes {
         def BOOLEAN = "boolean"

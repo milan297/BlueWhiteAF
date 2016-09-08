@@ -8,8 +8,8 @@ public final class BuildConfig {
   public static final String APPLICATION_ID = "com.vaaski.bwaf";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
-  public static final int VERSION_CODE = 10;
-  public static final String VERSION_NAME = "pre- release";
+  public static final int VERSION_CODE = 16;
+  public static final String VERSION_NAME = "alpha release";
   // Fields from build type: debug
   public static final boolean ENABLE_ANTI_PIRACY = false;
 }

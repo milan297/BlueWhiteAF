@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
 	<color name="status_bar_grey_background">#ffededed</color>
+	<color name="grey_0_whiteout">#ff0288D1</color>
+	<color name="grey_0_5">#ff0288D1</color>
 </resources>

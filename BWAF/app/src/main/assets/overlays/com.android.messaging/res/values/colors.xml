@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="material_blue_grey_900">#ff0288D1</color>
+	<color name="primary_color">#ff0288D1</color>
+	<color name="message_bubble_color_selected">#ff0288D1</color>
+	<color name="message_image_selected_tint">#ff0288D1</color>
+	<color name="mms_indicator_color">#ff0288D1</color>
+	<color name="conversation_background">#ffffff</color>
+	<color name="action_bar_background_color_dark">#ff0277BD</color>
+	<color name="material_blue_grey_950">#ff0277BD</color>
+</resources>
