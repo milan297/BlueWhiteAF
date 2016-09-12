@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.vaaski.bwaf"
-    android:versionCode="16"
+    android:versionCode="20"
     android:versionName="alpha release" >
 
     <uses-sdk
-        android:minSdkVersion="23"
+        android:minSdkVersion="21"
         android:targetSdkVersion="24" />
 
     <uses-permission android:name="com.android.vending.CHECK_LICENSE" />

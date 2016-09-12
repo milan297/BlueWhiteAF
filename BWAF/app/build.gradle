@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.vaaski.bwaf"
-        minSdkVersion 23
+        minSdkVersion 21
         targetSdkVersion 24
         versionCode 20
         versionName "alpha release"
