@@ -23,6 +23,20 @@
         <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_71cc70b51889ac6747eff5ef381bfcc6f0fe1454\classes.dex" />
     </item>
     <item
+        jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_9a831c0e1256c220ecaff836b333d09b707f1f41\classes.dex" />
+    </item>
+    <item
+        jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ab8ed320c2340a30e93264878e8a5aba33efcaf9">
+        <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a971b6f91862174fbe616cfd56b1b1851573f070\classes.dex" />
+    </item>
+    <item
         jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="24.0.1"
@@ -40,7 +54,7 @@
         jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="c8ccb04ecdd9314009e2136f17693bca623dcdbb">
+        sha1="12172bfd6dd501e568336d5ab854026aa362324d">
         <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_72ae97d5f769ff7a5c291e7fa2de696e4176cb54\classes.dex" />
     </item>
     <item
@@ -49,20 +63,6 @@
         revision="24.0.1"
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
         <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_8f9112abc2c80db74e4d605b1893348cede21f26\classes.dex" />
-    </item>
-    <item
-        jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_9a831c0e1256c220ecaff836b333d09b707f1f41\classes.dex" />
-    </item>
-    <item
-        jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="c250c6c5001614d8bc473e70f71815ab53bd3db9">
-        <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a971b6f91862174fbe616cfd56b1b1851573f070\classes.dex" />
     </item>
 
 </items>

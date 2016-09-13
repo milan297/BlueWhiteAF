@@ -1,18 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<color name="primary">#0288D1</color>
-	<color name="primary_dark">#0277BD</color>
-	<color name="accent">#0288D1</color>
-	<color name="accent_light">#0288D1</color>
+	<color name="primary">#ff0288D1</color>
+	<color name="primary_dark">#ff0277BD</color>
+	<color name="accent">#ff0288D1</color>
+	<color name="accent_light">#ff0288D1</color>
+    <color name="accent_dark">#ff0288D1</color>
 	<color name="accent_material_dark">#0288D1</color>
     <color name="accent_material_light">#0288D1</color>
+    <color name="action_mode">#ff0288D1</color>
+    <color name="action_mode_dark">#ff0277BD</color>
 	<color name="primary_dark_voip">#0277BD</color>
     <color name="highlighted_text_material_light">#03A9F4</color>
     <color name="material_deep_teal_500">#03A9F4</color>
-	<color name="action_mode">#0288D1</color>
 	<color name="section_text">#0288D1</color>
-	<color name="action_mode_dark">#ff0277BD</color>
 	<color name="media_message_progress_determinate">#ff0288D1</color>
 	<color name="composing">#ff0288D1</color>
 	<color name="btn_green_normal">#ff0288D1</color>
+	<color name="group_admin">#ff0288D1</color>
+    <color name="gdrive_restore_anim_green_dot">#ff0288D1</color>
+    <color name="composing">#ff0288D1</color>
+    <color name="btn_green_pressed">#ff0277BD</color>
+    <color name="btn_green_registration">#ff0288D1</color>
 </resources>
