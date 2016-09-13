@@ -18,7 +18,6 @@
 	<color name="btn_green_normal">#ff0288D1</color>
 	<color name="group_admin">#ff0288D1</color>
     <color name="gdrive_restore_anim_green_dot">#ff0288D1</color>
-    <color name="composing">#ff0288D1</color>
     <color name="btn_green_pressed">#ff0277BD</color>
     <color name="btn_green_registration">#ff0288D1</color>
 </resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey_9_whiteout">#ff0288D1</color>
+    <color name="grey_8_whiteout">#ff039BE5</color>
+    <color name="grey_7_whiteout">#ff03A9F4</color>
+    <color name="grey_6_whiteout">#ff29B6F6</color>
+    <color name="grey_5_whiteout">#ff4FC3F7</color>
+    <color name="grey_4_whiteout">#ff4FC3F7</color>
+    <color name="grey_3_whiteout">#ff81D4FA</color>
+    <color name="grey_2_whiteout">#ffB3E5FC</color>
+</resources>

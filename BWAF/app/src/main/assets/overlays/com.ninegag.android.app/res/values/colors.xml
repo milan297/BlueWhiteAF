@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cs_dark_theme_background2">#ff0288D1</color>
+    <color name="darktheme_uiv_placeholder_background">#ff0288D1</color>
+    <color name="fancy_dialog_backdrop_color">#ff0288D1</color>
+    <color name="fancy_dialog_color">#ff0288D1</color>
+    <color name="sliding_menu_bg">#ff0288D1</color>
+    <color name="switch_text_normal">#ff0288D1</color>
+	<color name="cs_meta_text_color">#ff0288D1</color>
+	<color name="darktheme_secondary_text">#ff0288D1</color>
+	<color name="post_to_section_button_disabled">#ff0288D1</color>
+</resources>
