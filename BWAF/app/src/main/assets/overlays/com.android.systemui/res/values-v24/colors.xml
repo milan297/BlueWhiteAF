@@ -29,9 +29,4 @@
     <color name="lb_default_brand_color">#0277BD</color>
     <color name="material_blue_grey_800">#0277BD</color>
     <color name="switch_bar_background">#0277BD</color>
-    <color name="batterymeter_frame_color">#78c4c4c4</color>
-    <color name="batterymeter_bolt_color">#FFFFFF</color>
-    <color name="batterymeter_charge_color">#fff2f2f2</color>
-    <color name="qs_edit_overflow_bg">#FFFFFFFF</color>
-    <color name="qs_batterymeter_frame_color">#ff404040</color>
 </resources>
