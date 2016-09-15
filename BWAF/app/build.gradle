@@ -8,7 +8,7 @@ android {
         applicationId "com.vaaski.bwaf"
         minSdkVersion 21
         targetSdkVersion 24
-        versionCode 24
+        versionCode 25
         versionName "alpha release"
     }
     buildTypes {

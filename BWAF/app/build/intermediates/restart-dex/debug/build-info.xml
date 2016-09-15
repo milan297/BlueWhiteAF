@@ -4,27 +4,27 @@
     api-level="24"
     density="560dpi"
     format="7"
-    timestamp="100434074478137"
+    timestamp="171553786763630"
     token="-4186677585456017448" >
 
     <task
         name="javac"
-        duration="291" />
+        duration="207" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="205" />
+        duration="117" />
     <task
         name="verifier"
-        duration="62" />
+        duration="50" />
 
     <artifact
         location="G:\BWAF\Blue--White-AF\BWAF\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="100434074478137" >
+    <build timestamp="171553786763630" >
         <artifact
             location="G:\BWAF\Blue--White-AF\BWAF\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />

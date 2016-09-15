@@ -33,7 +33,7 @@
         jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="7bbcc863adf03e8d5fab89952c128525203b1781">
+        sha1="256a24831c07c5d9dfd2751a0d2f61cef534f76d">
         <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a971b6f91862174fbe616cfd56b1b1851573f070\classes.dex" />
     </item>
     <item
@@ -54,7 +54,7 @@
         jar="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="d4827a11df1212af75e30bcfcf65ed5c9a4eebf3">
+        sha1="04e38712d3d437e749192bdd05aa8249220396d1">
         <dex dex="G:\BWAF\Blue--White-AF\BWAF\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_72ae97d5f769ff7a5c291e7fa2de696e4176cb54\classes.dex" />
     </item>
     <item
